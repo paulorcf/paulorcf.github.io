@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://www.paulorcf.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.paulorcf.com/" rel="alternate" type="text/html" /><updated>2017-07-13T18:01:39-03:00</updated><id>http://www.paulorcf.com/</id><title type="html">software insane!</title><subtitle>A brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. Made by &lt;a href=&quot;https://twitter.com/mdo&quot; target=&quot;_blank&quot;&gt;@mdo&lt;/a&gt;.</subtitle><author><name>Mark Otto</name></author><entry><title type="html">ML-Foundations Docker Image</title><link href="http://www.paulorcf.com/2016/12/ml-foundations-docker-image/" rel="alternate" type="text/html" title="ML-Foundations Docker Image" /><published>2016-12-09T15:51:43-02:00</published><updated>2016-12-09T15:51:43-02:00</updated><id>http://www.paulorcf.com/2016/12/ml-foundations-docker-image</id><content type="html" xml:base="http://www.paulorcf.com/2016/12/ml-foundations-docker-image/">&lt;p&gt;I publish a docker image to help on the &lt;a href=&quot;https://www.coursera.org/learn/ml-foundations&quot; target=&quot;_blank&quot;&gt;Machine Learning Foundations: A Case Study Approach at Coursera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They setup all Anaconda, Graphlab, Jypiter and Ipython for you!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulorcf/ml-foundations-coursera-docker&quot;&gt;https://github.com/paulorcf/ml-foundations-coursera-docker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy learning!! 🙂&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">I publish a docker image to help on the Machine Learning Foundations: A Case Study Approach at Coursera They setup all Anaconda, Graphlab, Jypiter and Ipython for you!</summary></entry><entry><title type="html">JBoss Fuse Workshop Desenvolvimento – Parte 1</title><link href="http://www.paulorcf.com/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/" rel="alternate" type="text/html" title="JBoss Fuse Workshop Desenvolvimento &amp;#8211; Parte 1" /><published>2015-01-12T09:32:11-02:00</published><updated>2015-01-12T09:32:11-02:00</updated><id>http://www.paulorcf.com/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1</id><content type="html" xml:base="http://www.paulorcf.com/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/">&lt;p&gt;Esse semana começo a publicar treinamento completo focado para desenvolvimento do produto Red Hat Fuse (antigo FuseSource).&lt;/p&gt;
+
+&lt;p&gt;Curso será dividido em 6 partes:&lt;/p&gt;
+
+&lt;p&gt;– Apache Karaf.&lt;/p&gt;
+
+&lt;p&gt;– Apache Karaf – Hands on.&lt;/p&gt;
+
+&lt;p&gt;– Apache Camel.&lt;/p&gt;
+
+&lt;p&gt;– Apache Camel – Hands on.&lt;/p&gt;
+
+&lt;p&gt;– Apache ActiveMq.&lt;/p&gt;
+
+&lt;p&gt;– Apache ActiveMq – Hands on.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/nuQSsxI32mHdX5&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/paulorcf/1-j-bossfuseworkshopdesenvolvimentov3parte1manha&quot; title=&quot;JBoss Fuse Workshop Desenvolvimento - Parte 1&quot; target=&quot;_blank&quot;&gt;JBoss Fuse Workshop Desenvolvimento - Parte 1&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/paulorcf&quot;&gt;Paulo Roberto de Castro Filho&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Interessados nos exercícios e no download da máquina virtual ?&lt;/p&gt;
+
+&lt;p&gt;Me contacte: &lt;em&gt;paulof at gmail dot com&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ementa: JBoss Fuse Workshop Desenvolvimento – Parte 1&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Introdução ao JBoss Fuse.&lt;/p&gt;
+
+    &lt;p&gt;História.&lt;/p&gt;
+
+    &lt;p&gt;SOA.&lt;/p&gt;
+
+    &lt;p&gt;ESB.&lt;/p&gt;
+
+    &lt;p&gt;EIP.&lt;/p&gt;
+
+    &lt;p&gt;Fuse&lt;/p&gt;
+
+    &lt;p&gt;Componentes.&lt;/p&gt;
+
+    &lt;p&gt;Fabric&lt;/p&gt;
+
+    &lt;p&gt;Fuse IDE.&lt;/p&gt;
+
+    &lt;p&gt;Fuse Service Works.&lt;/p&gt;
+
+    &lt;p&gt;SwitchYard.&lt;/p&gt;
+
+    &lt;p&gt;Overlord.&lt;/p&gt;
+
+    &lt;p&gt;Apache Karaf&lt;/p&gt;
+
+    &lt;p&gt;Arquitetura.&lt;/p&gt;
+
+    &lt;p&gt;Definições.&lt;/p&gt;
+
+    &lt;p&gt;Benefícios.&lt;/p&gt;
+
+    &lt;p&gt;OSGi&lt;/p&gt;
+
+    &lt;p&gt;Deployment&lt;/p&gt;
+
+    &lt;p&gt;Provisionamento&lt;/p&gt;
+
+    &lt;p&gt;Gerenciamento.&lt;/p&gt;
+
+    &lt;p&gt;Console Administrativo.&lt;/p&gt;
+
+    &lt;p&gt;Logging.&lt;/p&gt;
+
+    &lt;p&gt;Administração.&lt;/p&gt;
+
+    &lt;p&gt;Configuração.&lt;/p&gt;
+
+    &lt;p&gt;Aplicações de Patches.&lt;/p&gt;
+
+    &lt;p&gt;Múltiplas instâncias.&lt;/p&gt;
+
+    &lt;p&gt;Deployment failover.&lt;/p&gt;
+
+    &lt;p&gt;Segurança.&lt;/p&gt;
+
+    &lt;p&gt;Console.&lt;/p&gt;
+
+    &lt;p&gt;Extras&lt;/p&gt;
+
+    &lt;p&gt;Message Broker.&lt;/p&gt;
+
+    &lt;p&gt;ActiveMQ Web Console.&lt;/p&gt;
+
+    &lt;p&gt;Gerenciamento Fabric.&lt;/p&gt;
+
+    &lt;p&gt;Infraestrutura.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>paulorcf</name></author><category term="apache" /><category term="fuse" /><category term="integração" /><category term="karaf" /><category term="software livre" /><category term="treinamento" /><summary type="html">Esse semana começo a publicar treinamento completo focado para desenvolvimento do produto Red Hat Fuse (antigo FuseSource).</summary></entry><entry><title type="html">O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin</title><link href="http://www.paulorcf.com/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/" rel="alternate" type="text/html" title="O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin" /><published>2014-12-01T07:43:59-02:00</published><updated>2014-12-01T07:43:59-02:00</updated><id>http://www.paulorcf.com/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin</id><content type="html" xml:base="http://www.paulorcf.com/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/">&lt;p&gt;Alguns bons pontos sobre TDD.&lt;/p&gt;
+
+&lt;p&gt;RailsConf 09: Robert Martin, “What Killed Smalltalk Could Kill Ruby”.&lt;/p&gt;
+&lt;div&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YX3iRjKj7C0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>paulorcf</name></author><category term="ruby" /><category term="smalltalk" /><category term="tdd" /><summary type="html">Alguns bons pontos sobre TDD. RailsConf 09: Robert Martin, “What Killed Smalltalk Could Kill Ruby”.</summary></entry><entry><title type="html">Planos de governo – Presidente 2014</title><link href="http://www.paulorcf.com/2014/10/planos-de-governo-presidente-2014/" rel="alternate" type="text/html" title="Planos de governo &amp;#8211; Presidente 2014" /><published>2014-10-07T14:39:32-03:00</published><updated>2014-10-07T14:39:32-03:00</updated><id>http://www.paulorcf.com/2014/10/planos-de-governo-presidente-2014</id><content type="html" xml:base="http://www.paulorcf.com/2014/10/planos-de-governo-presidente-2014/">&lt;p&gt;Vamos ao 2nd turno da Eleição.&lt;/p&gt;
+
+&lt;p&gt;Dilma:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pt.org.br/wp-content/uploads/2014/07/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&quot;&gt;https://www.pt.org.br/wp-content/uploads/2014/07/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Aécio:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://static.psdb.org.br/wp-content/uploads/2014/07/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf&quot;&gt;http://static.psdb.org.br/wp-content/uploads/2014/07/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso apaguem subi no blog:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/10/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&quot;&gt;Prog-de-Governo-Dilma-2014-INTERNET1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/f255h21ww8dsjpn/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf?dl=0&quot; title=&quot;Prog-de-Governo-Aecio-2014&quot;&gt;https://www.dropbox.com/s/f255h21ww8dsjpn/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf?dl=0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name>paulorcf</name></author><category term="plano" /><summary type="html">Vamos ao 2nd turno da Eleição.</summary></entry><entry><title type="html">Topology and orchestration specification for cloud applications</title><link href="http://www.paulorcf.com/2014/04/topology-orchestration-specification-cloud-applications/" rel="alternate" type="text/html" title="Topology and orchestration specification for cloud applications" /><published>2014-04-29T15:40:04-03:00</published><updated>2014-04-29T15:40:04-03:00</updated><id>http://www.paulorcf.com/2014/04/topology-orchestration-specification-cloud-applications</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/topology-orchestration-specification-cloud-applications/">&lt;div style=&quot;margin-bottom:5px&quot;&gt;
+  &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/OpenTOSCA/tosca-and-opentosca-tosca-introduction-and-opentosca-ecosystem-overview&quot; title=&quot;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&quot; target=&quot;_blank&quot;&gt;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/OpenTOSCA&quot; target=&quot;_blank&quot;&gt;OpenTOSCA&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.openstack.org/w/images/a/a1/TOSCA_in_Heat_-_20130415.pdf&quot; target=&quot;_blank&quot;&gt;Tosca in OpenStack HEAT.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html&quot; target=&quot;_blank&quot;&gt;OASIS Spec 1.0 – TOSCA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca&quot; target=&quot;_blank&quot;&gt;OASIS – TOSCA page&lt;/a&gt;&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview from OpenTOSCA</summary></entry><entry><title type="html">Palestra TDC – Cloud Computing – Libvirt e Libguestfs – O caminho automação da virtualização</title><link href="http://www.paulorcf.com/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao/" rel="alternate" type="text/html" title="Palestra TDC &amp;#8211; Cloud Computing &amp;#8211; Libvirt e Libguestfs &amp;#8211; O caminho automação da virtualização" /><published>2014-04-24T17:22:25-03:00</published><updated>2014-04-24T17:22:25-03:00</updated><id>http://www.paulorcf.com/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao/">&lt;p&gt;Palestra aprovada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Libvirt e Libguestfs – O caminho automação da virtualização&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Paulo Roberto de Castro Filho&lt;/p&gt;
+
+&lt;p&gt;Introdução a virtualização com open-source.&lt;/p&gt;
+
+&lt;p&gt;Arquitetura KVM e XEN.&lt;/p&gt;
+
+&lt;p&gt;Como domar e automatizar tarefas com diversos Hypervisors.&lt;/p&gt;
+
+&lt;p&gt;Libvirt é um toolkit que interage com sistemas de virtualização como Xen e KVM entre outros.&lt;/p&gt;
+
+&lt;p&gt;Libguestfs é outro toolkit para acessar e modificar discos de máquinas virtuais.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-1024x640.png&quot; alt=&quot;Palestra TDC 2014 - Floripa&quot; width=&quot;584&quot; height=&quot;365&quot; class=&quot;aligncenter size-large wp-image-91&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-1024x640.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-300x187.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-500x312.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa.png 1280w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/inscricoes&quot; target=&quot;_blank&quot;&gt;Participe!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Data e Local&lt;/p&gt;
+
+&lt;p&gt;Sexta-feira, 16 de Maio de 2014&lt;/p&gt;
+
+&lt;p&gt;8:30 às 18:30&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.oceaniaparkhotel.com.br/centro-convencoes/&quot; target=&quot;_blank&quot;&gt;Oceania Convention Center&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rua do Marisco, 550 – 88058-090&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Praia dos Ingleses&lt;/td&gt;
+      &lt;td&gt;Florianópolis – SC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/data-e-local&quot; target=&quot;_blank&quot;&gt;Informações sobre Data e Local&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais informações: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/trilha-cloud-computing&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/trilha-cloud-computing&lt;/a&gt;&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">Palestra aprovada.</summary></entry><entry><title type="html">Killing running thread in JBoss</title><link href="http://www.paulorcf.com/2014/04/kill-running-thread-jboss/" rel="alternate" type="text/html" title="Killing running thread in JBoss" /><published>2014-04-24T17:10:25-03:00</published><updated>2014-04-24T17:10:25-03:00</updated><id>http://www.paulorcf.com/2014/04/kill-running-thread-jboss</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/kill-running-thread-jboss/">&lt;p&gt;Quick how to, check update to more information. Worked with JBoss 6.1 EAP.&lt;/p&gt;
+
+&lt;p&gt;This not work with locked thread.&lt;/p&gt;
+
+&lt;p&gt;Checking process PID&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;jps&lt;/pre&gt;
+
+&lt;p&gt;Output something like this:&lt;/p&gt;
+
+&lt;p&gt;12124 Jps&lt;/p&gt;
+
+&lt;p&gt;24541 jboss-modules.jar&lt;/p&gt;
+
+&lt;p&gt;Generate DUMP for JBoss Process&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;jstack 24541 &amp;gt;&amp;gt; /tmp/dump_24042014_1754.txt  # 24541 is JBoss PID&lt;/pre&gt;
+
+&lt;p&gt;Checking the Thread name&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;cat /tmp/dump_24042014_1754.txt | grep -i &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;Output something like this:&lt;/p&gt;
+
+&lt;p&gt;“http-/0.0.0.0:8080-9” daemon prio=10 tid=0x00007f2ea8094800 nid=0x6073 runnable [0x00007f2e9df10000]&lt;/p&gt;
+
+&lt;p&gt;Running JKillThread&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;running JKillThread&quot;&gt;java -jar jkillthread-1.0-SNAPSHOT.jar 24541 &quot;http-/0.0.0.0:8080-9&quot;
+# 24541 is JBoss PID
+# Thread Name is &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;Checking in JBoss log (standalone running mode)&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;reading JBoss log&quot;&gt;tail -50f /usr/java/jboss-eap-6.2/standalone/log/server.log&lt;/pre&gt;
+
+&lt;p&gt;Output something like:&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;output JBoss&quot;&gt;24-04-2014 17:56:10,410 ERROR [stderr] (Attach Listener) Killing &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;References and Resources&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jglick/jkillthread&quot;&gt;JKillThread&lt;/a&gt;&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">Quick how to, check update to more information. Worked with JBoss 6.1 EAP. This not work with locked thread.</summary></entry><entry><title type="html">Parsible – Transforme seu log em informação qualitativa</title><link href="http://www.paulorcf.com/2014/04/parsible/" rel="alternate" type="text/html" title="Parsible &amp;#8211; Transforme seu log em informação qualitativa" /><published>2014-04-24T16:55:11-03:00</published><updated>2014-04-24T16:55:11-03:00</updated><id>http://www.paulorcf.com/2014/04/parsible</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/parsible/">&lt;p&gt;Precisava à partir do log do XEN – LIBXL obter informações sobre mudança de estados das máquinas virtuais.&lt;/p&gt;
+
+&lt;p&gt;Parsible é uma ferramenta que faz parser de log e ajuda a transformar em informação qualitativa. O ciclo de leitura do arquivo e stream de linha por linha fica a cargo do Parsible, sendo assim, desenvolvedor só precisa escrever uma função de parser.&lt;/p&gt;
+
+&lt;p&gt;O Parsible abre uma thread que fica lendo o arquivo de trás para frente (igual um tail -f), já está pronto para rotate de log e fica a cargo do desenvolvedor rodar apenas um parser ou carregar todos os parsers.&lt;/p&gt;
+
+&lt;p&gt;Fluxo básico (mais detalhes diagrama de sequência abaixo):&lt;/p&gt;
+
+&lt;p&gt;Arquivo atualizado -&amp;gt; parse -&amp;gt; processor -&amp;gt; output.&lt;/p&gt;
+
+&lt;p&gt;Output pode chamar um serviço REST, mandar os dados para um Riemann ou Graphite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diagramas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png&quot; alt=&quot;Abstract_Parsible_Class_Diagram&quot; width=&quot;584&quot; height=&quot;404&quot; class=&quot;aligncenter size-large wp-image-66&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-300x208.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-500x347.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png 1210w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png&quot; alt=&quot;Abstract_Flow_Parsible_Sequence_Diagram&quot; width=&quot;584&quot; height=&quot;302&quot; class=&quot;aligncenter size-large wp-image-65&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-300x155.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-500x258.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png 1433w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;lang:python mark:5 decode:true &quot; title=&quot;xen42.py - Parser&quot;&gt;import re
+import logging
+
+
+def parse_xend42(line):
+    &quot;&quot;&quot;
+    This parser try parser only details information about xend42 events.
+        Example:
+            [2014-03-25 13:17:02 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=CD976431-linux-centos-6-64b-base-sx-1819 id=5
+            30 reason=poweroff.
+
+            [2014-03-26 12:00:33 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=549 reason=reboot.
+
+            [2014-03-26 12:05:16 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=550 reason=poweroff.
+
+        They extract this information:
+            @Parsed
+            libname (XendDomainInfo:2079)
+            loglevel INFO
+            actionDetail reason=poweroff. : split(&quot;=&quot;) get only poweroff
+            date [2014-03-25 : strip [
+
+            time 13:17:02
+            action shutdown:
+            vmName name=CD976431-linux-centos-6-64b-base-sx-1819 : split(&quot;=&quot;) get only CD976431-linux-centos-6-64b-base-sx-1819
+            id id=530 : split(&quot;=&quot;) get only 530
+
+            @Ignored for now:
+            domain Domain
+            has has
+            timeid 2140]
+    &quot;&quot;&quot;
+    line = line.strip()
+
+    # Shutdown
+    regex = re.compile(&quot;(?P&amp;lt;date&amp;gt;[\w\S]+)\s(?P&amp;lt;time&amp;gt;[\w\S]+)\s(?P&amp;lt;timeid&amp;gt;[\w\S]+)\s(?P&amp;lt;loglevel&amp;gt;[\w\S]+)\s(?P&amp;lt;libname&amp;gt;[\w\S]+)\s(?P&amp;lt;domain&amp;gt;[\w\S]+)\s(?P&amp;lt;has&amp;gt;[\w\S]+)\s(?P&amp;lt;action&amp;gt;[\w\S]+)\s(?P&amp;lt;vmName&amp;gt;[\w\S]+)\s(?P&amp;lt;id&amp;gt;[\w\S]+)\s(?P&amp;lt;actionDetail&amp;gt;[\w\S]+)&quot;)
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set[&quot;libname&quot;] = r.group(&quot;libname&quot;)
+            logging.debug(&quot;Get libname=%s, OK!&quot; % result_set[&quot;libname&quot;])
+
+            result_set[&quot;loglevel&quot;] = r.group(&quot;loglevel&quot;)
+            logging.debug(&quot;Get loglevel, OK!&quot;)
+
+            lreport = r.group(&quot;actionDetail&quot;).split(&quot;=&quot;)
+            result_set[&quot;actionDetail&quot;] = lreport[1][:-1]  # strip .
+            logging.debug(&quot;Get actionDetail=%s, OK!&quot; % result_set[&quot;actionDetail&quot;])
+
+            result_set[&quot;date&quot;] = r.group(&quot;date&quot;)[1:]  # strip first char [
+            logging.debug(&quot;Get date=%s, OK!&quot; % result_set[&quot;date&quot;])
+
+            result_set[&quot;time&quot;] = r.group(&quot;time&quot;)
+            logging.debug(&quot;Get time=%s, OK!&quot; % result_set[&quot;time&quot;])
+
+            result_set[&quot;action&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get action=%s, OK!&quot; % result_set[&quot;action&quot;])
+
+            lvmName = r.group(&quot;vmName&quot;).split(&quot;=&quot;)
+            result_set[&quot;vmName&quot;] = lvmName[1]
+            logging.debug(&quot;Get vmName=%s, OK!&quot; % result_set[&quot;vmName&quot;])
+
+            lID = r.group(&quot;id&quot;).split(&quot;=&quot;)
+            result_set[&quot;id&quot;] = lID[1]
+            logging.debug(&quot;Get id=%s, OK!&quot; % result_set[&quot;id&quot;])
+
+        except IndexError:
+            logging.error(&quot;Unable parser information in libxl, some regex group missing&quot;)
+
+    # CRASHED
+    regex = re.compile(&quot;(?P&amp;lt;date&amp;gt;[\w\S]+)\s(?P&amp;lt;time&amp;gt;[\w\S]+)\s(?P&amp;lt;timeid&amp;gt;[\w\S]+)\s(?P&amp;lt;loglevel&amp;gt;[\w\S]+)\s(?P&amp;lt;libname&amp;gt;[\w\S]+)\s(?P&amp;lt;domain&amp;gt;[\w\S]+)\s(?P&amp;lt;has&amp;gt;[\w\S]+)\s(?P&amp;lt;action&amp;gt;[\w\S]+)\s(?P&amp;lt;vmName&amp;gt;[\w\S]+)\s(?P&amp;lt;id&amp;gt;[\w\S]+)&quot;)
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set[&quot;libname&quot;] = r.group(&quot;libname&quot;)
+            logging.debug(&quot;Get libname=%s, OK!&quot; % result_set[&quot;libname&quot;])
+
+            result_set[&quot;loglevel&quot;] = r.group(&quot;loglevel&quot;)
+            logging.debug(&quot;Get loglevel, OK!&quot;)
+
+            result_set[&quot;date&quot;] = r.group(&quot;date&quot;)[1:]  # strip first char [
+            logging.debug(&quot;Get date=%s, OK!&quot; % result_set[&quot;date&quot;])
+
+            result_set[&quot;time&quot;] = r.group(&quot;time&quot;)
+            logging.debug(&quot;Get time=%s, OK!&quot; % result_set[&quot;time&quot;])
+
+            result_set[&quot;action&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get action=%s, OK!&quot; % result_set[&quot;action&quot;])
+
+            result_set[&quot;actionDetail&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get actionDetail=%s, OK!&quot; % result_set[&quot;actionDetail&quot;])
+
+            lvmName = r.group(&quot;vmName&quot;).split(&quot;=&quot;)
+            result_set[&quot;vmName&quot;] = lvmName[1]
+            logging.debug(&quot;Get vmName=%s, OK!&quot; % result_set[&quot;vmName&quot;])
+
+            lID = r.group(&quot;id&quot;).split(&quot;=&quot;)
+            result_set[&quot;id&quot;] = lID[1]
+            logging.debug(&quot;Get id=%s, OK!&quot; % result_set[&quot;id&quot;])
+
+        except IndexError:
+            logging.error(&quot;Unable parser information in libxl, some regex group missing&quot;)
+
+    else:
+        logging.debug(&quot;Not value found on regex&quot;)
+
+    return result_set&lt;/pre&gt;
+
+&lt;pre class=&quot;lang:python mark:5 decode:true &quot; title=&quot;pxend42.py - Processor&quot;&gt;import logging
+from audit.plugins.outputs import output_libvirt_events
+
+
+def process_action_shutdown(result):
+    &quot;&quot;&quot;
+
+    &quot;&quot;&quot;
+    # TODO: Fix the if hierarchy and prop for action - Crashed and Shutdown repeated
+    #if not result.viewkeys() &amp;amp; {'libname', 'actionDetail', 'action', 'vmName'}:
+    if all(k in result for k in (&quot;libname&quot;, 'actionDetail', &quot;action&quot;, &quot;vmName&quot;)):
+        if result['libname'] == &quot;(XendDomainInfo:2079)&quot;:
+
+            if result['action'] == &quot;shutdown&quot;:
+                logging.debug(&quot;Shutdown event to vmName=%s and detail=%s &quot; % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+            elif result['action'] == &quot;crashed&quot;:
+                logging.debug(&quot;Shutdown event to vmName=%s and detail=%s &quot; % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+        else:
+            logging.error(&quot;Detected action not implemented %s&quot; % result['action'])
+
+    else:
+        logging.error(&quot;Detected shutdown in processor but parse can't get details&quot;)&lt;/pre&gt;
+
+&lt;pre class=&quot;lang:default mark:7 decode:true &quot; title=&quot;output_libvirt_events.py - Outputs&quot;&gt;import logging
+from audit import VMProp
+# import deleted from code
+# import deleted from code
+
+def broadcast_shutdown(vmName, actionDetail ):
+    &quot;&quot;&quot;
+    Set the last detail information on global event_libvirt
+        :event_libvirt = { vmName : lastStated }
+
+    In Python documentation Dict is atomic. If you don't believe that try QUEUE.
+    &quot;&quot;&quot;
+    tmp = {}
+    if actionDetail == VMProp.vmState_SHUTTING_DOWN_DETAIL.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_CRASHED.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_crashed(vmName)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_REBOOT.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF_REBOOT)
+
+    else:
+        tmp[vmName] = None
+        logging.error(&quot;Trying broadcast a new shutdown details but don't recognized actionDetail=%s &quot; % actionDetail)&lt;/pre&gt;
+
+&lt;p&gt;References e resources:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/&quot; target=&quot;_blank&quot;&gt;http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/Yipit/parsible&quot;&gt;http://github.com/Yipit/parsible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulorcf/parsible&quot; title=&quot;Parser e Processor para LibXL&quot;&gt;https://github.com/paulorcf/parsible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/parsible_conceptual_diagram_jude_v1.tar.gz&quot;&gt;parsible_conceptual_diagram_jude_v1.tar&lt;/a&gt;&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">Precisava à partir do log do XEN – LIBXL obter informações sobre mudança de estados das máquinas virtuais.</summary></entry><entry><title type="html">FISL15 – DIYbio hackeando o software da vida</title><link href="http://www.paulorcf.com/2014/04/fisl15-diybio-hackeando-o-software-da-vida/" rel="alternate" type="text/html" title="FISL15 &amp;#8211; DIYbio hackeando o software da vida" /><published>2014-04-03T13:23:38-03:00</published><updated>2014-04-03T13:23:38-03:00</updated><id>http://www.paulorcf.com/2014/04/fisl15-diybio-hackeando-o-software-da-vida</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/fisl15-diybio-hackeando-o-software-da-vida/">&lt;p&gt;Confirmada para dia 10/05/2014, 16:00hrs no salão 41F (250 lugares).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png&quot; alt=&quot;palestraNaGrade_V1&quot; width=&quot;584&quot; height=&quot;324&quot; class=&quot;aligncenter size-large wp-image-70&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-300x166.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-500x278.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png 1165w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Quer hackear seu DNA ou sua própria vida ?&lt;/p&gt;
+
+&lt;p&gt;DIYbio é uma rede de indivíduos globais que querem hackear a biologia aplicando práticas de “Faça você mesmo”.&lt;/p&gt;
+
+&lt;p&gt;Objetivo da palestra é demonstrar as principais as iniciativas e ideias para modelagem de sistemas biológicos via computação. Ensinaremos como trabalhar com dados do seu próprio DNA.&lt;/p&gt;
+
+&lt;p&gt;Demonstração de projetos como Wholecell da Universidade Stanford.&lt;/p&gt;
+
+&lt;p&gt;Neste momento, em algum lugar dos Estados Unidos, da Inglaterra ou até da Índia, algum biólogo sintético amador está realizando um experimento na sua cozinha ou garagem. Nos últimos dois anos, entusiastas da biologia molecular têm se juntado para montar organizações de biologia sintética amadora, como o DIYbio (do-it-yourself biology), em que os membros se reúnem em pubs e barbecues para discutir os últimos experimentos realizados nas suas próprias garagens. Há quase seis meses tenho participado das discussões desse grupo, que apresentam conteúdo refinado e objetivo sobre o desenvolvimento de microscópios de 10 dólares, espectrofotômetros, centrífugas de furadeiras ou liquidificadores, construções de diferentes kits com E. coli modificada, chegando até a sequenciadores de DNA caseiros.&lt;/p&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;http://synbiobrasil.org/2011/02/15/do-it-yourself-biologists-dyibio-e-a-ciencia-cidada/&quot; target=&quot;_blank&quot;&gt;http://synbiobrasil.org/2011/02/15/do-it-yourself-biologists-dyibio-e-a-ciencia-cidada/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tópicos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DIYbio foi fundado em 2008 no EUA com missão de criar uma comunidade de biologos com intuito de “Faça você mesmo”. A principal missão é acreditar que biotecnologia e mostrar para o grande público o grande potencial de benefícios (http://diybio.org/).&lt;/p&gt;
+
+&lt;p&gt;Comentários sobre o livro BioPunk: DIY Scientists hack the software of life.&lt;/p&gt;
+
+&lt;p&gt;Opensource para processamento de DNA.&lt;/p&gt;
+
+&lt;p&gt;Simulando uma célula com projeto Wholecell.&lt;/p&gt;
+
+&lt;p&gt;Entender uma cultura de bacterias e como simula-la no computador.&lt;/p&gt;
+
+&lt;p&gt;Processamento do GENOMA por U$ 1.000,00.&lt;/p&gt;</content><author><name>paulorcf</name></author><summary type="html">Confirmada para dia 10/05/2014, 16:00hrs no salão 41F (250 lugares).</summary></entry><entry><title type="html">Install virt-v2v on Debian from source</title><link href="http://www.paulorcf.com/2014/04/install-virt-v2v-debian/" rel="alternate" type="text/html" title="Install virt-v2v on Debian from source" /><published>2014-04-02T11:22:17-03:00</published><updated>2014-04-02T11:22:17-03:00</updated><id>http://www.paulorcf.com/2014/04/install-virt-v2v-debian</id><content type="html" xml:base="http://www.paulorcf.com/2014/04/install-virt-v2v-debian/">&lt;p&gt;Howto install virt-v2v from source code on Debian or Ubuntu.&lt;/p&gt;
+
+&lt;pre class=&quot;theme:inlellij-idea lang:sh decode:true &quot;&gt;git clone https://git.fedorahosted.org/git/virt-v2v.git
+
+sudo apt-get install dh-autoreconf
+
+sudo apt-get install libguestfs-tools
+
+sudo apt-get install libxml-dom-perl libxml-xpath-perl libxml-dom-xpath-perl \ 
+libterm-progressbar-perl libdatetime-perl libnet-server-perl \ 
+libnet-https-any-perl libnet-https-nb-perl libnet-httpserver-perl \
+libcrypt-ssleay-perl
+
+wget http://launchpadlibrarian.net/85191944/libdigest-sha1-perl_2.13-2build2_amd64.deb
+
+sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
+
+./run v2v/virt-v2v.pl&lt;/pre&gt;</content><author><name>paulorcf</name></author><summary type="html">Howto install virt-v2v from source code on Debian or Ubuntu.</summary></entry></feed>

@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Parsible &#8211; Transforme seu log em informação qualitativa &middot; software insane!
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          software insane!
+        </a>
+      </h1>
+      <p class="lead">A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde/archive/v2.1.0.zip">Download</a>
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde">GitHub project</a>
+      <span class="sidebar-nav-item">Currently v2.1.0</span>
+    </nav>
+
+    <p>&copy; 2017. All rights reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title">Parsible &#8211; Transforme seu log em informação qualitativa</h1>
+  <span class="post-date">24 Apr 2014</span>
+  <p>Precisava à partir do log do XEN – LIBXL obter informações sobre mudança de estados das máquinas virtuais.</p>
+
+<p>Parsible é uma ferramenta que faz parser de log e ajuda a transformar em informação qualitativa. O ciclo de leitura do arquivo e stream de linha por linha fica a cargo do Parsible, sendo assim, desenvolvedor só precisa escrever uma função de parser.</p>
+
+<p>O Parsible abre uma thread que fica lendo o arquivo de trás para frente (igual um tail -f), já está pronto para rotate de log e fica a cargo do desenvolvedor rodar apenas um parser ou carregar todos os parsers.</p>
+
+<p>Fluxo básico (mais detalhes diagrama de sequência abaixo):</p>
+
+<p>Arquivo atualizado -&gt; parse -&gt; processor -&gt; output.</p>
+
+<p>Output pode chamar um serviço REST, mandar os dados para um Riemann ou Graphite.</p>
+
+<p><strong>Diagramas:</strong></p>
+
+<p><a href="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png"><img src="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png" alt="Abstract_Parsible_Class_Diagram" width="584" height="404" class="aligncenter size-large wp-image-66" srcset="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-300x208.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-500x347.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png 1210w" sizes="(max-width: 584px) 100vw, 584px" /></a></p>
+
+<p><a href="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png"><img src="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png" alt="Abstract_Flow_Parsible_Sequence_Diagram" width="584" height="302" class="aligncenter size-large wp-image-65" srcset="http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-300x155.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-500x258.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png 1433w" sizes="(max-width: 584px) 100vw, 584px" /></a></p>
+
+<p><strong>Exemplos:</strong></p>
+
+<pre class="lang:python mark:5 decode:true " title="xen42.py - Parser">import re
+import logging
+
+
+def parse_xend42(line):
+    """
+    This parser try parser only details information about xend42 events.
+        Example:
+            [2014-03-25 13:17:02 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=CD976431-linux-centos-6-64b-base-sx-1819 id=5
+            30 reason=poweroff.
+
+            [2014-03-26 12:00:33 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=549 reason=reboot.
+
+            [2014-03-26 12:05:16 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=550 reason=poweroff.
+
+        They extract this information:
+            @Parsed
+            libname (XendDomainInfo:2079)
+            loglevel INFO
+            actionDetail reason=poweroff. : split("=") get only poweroff
+            date [2014-03-25 : strip [
+
+            time 13:17:02
+            action shutdown:
+            vmName name=CD976431-linux-centos-6-64b-base-sx-1819 : split("=") get only CD976431-linux-centos-6-64b-base-sx-1819
+            id id=530 : split("=") get only 530
+
+            @Ignored for now:
+            domain Domain
+            has has
+            timeid 2140]
+    """
+    line = line.strip()
+
+    # Shutdown
+    regex = re.compile("(?P&lt;date&gt;[\w\S]+)\s(?P&lt;time&gt;[\w\S]+)\s(?P&lt;timeid&gt;[\w\S]+)\s(?P&lt;loglevel&gt;[\w\S]+)\s(?P&lt;libname&gt;[\w\S]+)\s(?P&lt;domain&gt;[\w\S]+)\s(?P&lt;has&gt;[\w\S]+)\s(?P&lt;action&gt;[\w\S]+)\s(?P&lt;vmName&gt;[\w\S]+)\s(?P&lt;id&gt;[\w\S]+)\s(?P&lt;actionDetail&gt;[\w\S]+)")
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set["libname"] = r.group("libname")
+            logging.debug("Get libname=%s, OK!" % result_set["libname"])
+
+            result_set["loglevel"] = r.group("loglevel")
+            logging.debug("Get loglevel, OK!")
+
+            lreport = r.group("actionDetail").split("=")
+            result_set["actionDetail"] = lreport[1][:-1]  # strip .
+            logging.debug("Get actionDetail=%s, OK!" % result_set["actionDetail"])
+
+            result_set["date"] = r.group("date")[1:]  # strip first char [
+            logging.debug("Get date=%s, OK!" % result_set["date"])
+
+            result_set["time"] = r.group("time")
+            logging.debug("Get time=%s, OK!" % result_set["time"])
+
+            result_set["action"] = r.group("action")[:-1]  # strip .
+            logging.debug("Get action=%s, OK!" % result_set["action"])
+
+            lvmName = r.group("vmName").split("=")
+            result_set["vmName"] = lvmName[1]
+            logging.debug("Get vmName=%s, OK!" % result_set["vmName"])
+
+            lID = r.group("id").split("=")
+            result_set["id"] = lID[1]
+            logging.debug("Get id=%s, OK!" % result_set["id"])
+
+        except IndexError:
+            logging.error("Unable parser information in libxl, some regex group missing")
+
+    # CRASHED
+    regex = re.compile("(?P&lt;date&gt;[\w\S]+)\s(?P&lt;time&gt;[\w\S]+)\s(?P&lt;timeid&gt;[\w\S]+)\s(?P&lt;loglevel&gt;[\w\S]+)\s(?P&lt;libname&gt;[\w\S]+)\s(?P&lt;domain&gt;[\w\S]+)\s(?P&lt;has&gt;[\w\S]+)\s(?P&lt;action&gt;[\w\S]+)\s(?P&lt;vmName&gt;[\w\S]+)\s(?P&lt;id&gt;[\w\S]+)")
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set["libname"] = r.group("libname")
+            logging.debug("Get libname=%s, OK!" % result_set["libname"])
+
+            result_set["loglevel"] = r.group("loglevel")
+            logging.debug("Get loglevel, OK!")
+
+            result_set["date"] = r.group("date")[1:]  # strip first char [
+            logging.debug("Get date=%s, OK!" % result_set["date"])
+
+            result_set["time"] = r.group("time")
+            logging.debug("Get time=%s, OK!" % result_set["time"])
+
+            result_set["action"] = r.group("action")[:-1]  # strip .
+            logging.debug("Get action=%s, OK!" % result_set["action"])
+
+            result_set["actionDetail"] = r.group("action")[:-1]  # strip .
+            logging.debug("Get actionDetail=%s, OK!" % result_set["actionDetail"])
+
+            lvmName = r.group("vmName").split("=")
+            result_set["vmName"] = lvmName[1]
+            logging.debug("Get vmName=%s, OK!" % result_set["vmName"])
+
+            lID = r.group("id").split("=")
+            result_set["id"] = lID[1]
+            logging.debug("Get id=%s, OK!" % result_set["id"])
+
+        except IndexError:
+            logging.error("Unable parser information in libxl, some regex group missing")
+
+    else:
+        logging.debug("Not value found on regex")
+
+    return result_set</pre>
+
+<pre class="lang:python mark:5 decode:true " title="pxend42.py - Processor">import logging
+from audit.plugins.outputs import output_libvirt_events
+
+
+def process_action_shutdown(result):
+    """
+
+    """
+    # TODO: Fix the if hierarchy and prop for action - Crashed and Shutdown repeated
+    #if not result.viewkeys() &amp; {'libname', 'actionDetail', 'action', 'vmName'}:
+    if all(k in result for k in ("libname", 'actionDetail', "action", "vmName")):
+        if result['libname'] == "(XendDomainInfo:2079)":
+
+            if result['action'] == "shutdown":
+                logging.debug("Shutdown event to vmName=%s and detail=%s " % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+            elif result['action'] == "crashed":
+                logging.debug("Shutdown event to vmName=%s and detail=%s " % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+        else:
+            logging.error("Detected action not implemented %s" % result['action'])
+
+    else:
+        logging.error("Detected shutdown in processor but parse can't get details")</pre>
+
+<pre class="lang:default mark:7 decode:true " title="output_libvirt_events.py - Outputs">import logging
+from audit import VMProp
+# import deleted from code
+# import deleted from code
+
+def broadcast_shutdown(vmName, actionDetail ):
+    """
+    Set the last detail information on global event_libvirt
+        :event_libvirt = { vmName : lastStated }
+
+    In Python documentation Dict is atomic. If you don't believe that try QUEUE.
+    """
+    tmp = {}
+    if actionDetail == VMProp.vmState_SHUTTING_DOWN_DETAIL.lower():
+        logging.debug("output called with action %s" + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_CRASHED.lower():
+        logging.debug("output called with action %s" + Utils.get_callee_name())
+        API.set_vm_crashed(vmName)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_REBOOT.lower():
+        logging.debug("output called with action %s" + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF_REBOOT)
+
+    else:
+        tmp[vmName] = None
+        logging.error("Trying broadcast a new shutdown details but don't recognized actionDetail=%s " % actionDetail)</pre>
+
+<p>References e resources:</p>
+
+<p><a href="http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/" target="_blank">http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/</a></p>
+
+<p><a href="http://github.com/Yipit/parsible">http://github.com/Yipit/parsible</a></p>
+
+<p><a href="https://github.com/paulorcf/parsible" title="Parser e Processor para LibXL">https://github.com/paulorcf/parsible</a></p>
+
+<p><a href="http://www.paulorcf.com/wp-content/uploads/2014/04/parsible_conceptual_diagram_jude_v1.tar.gz">parsible_conceptual_diagram_jude_v1.tar</a></p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2016/12/ml-foundations-docker-image/">
+            ML-Foundations Docker Image
+            <small>09 Dec 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/">
+            JBoss Fuse Workshop Desenvolvimento &#8211; Parte 1
+            <small>12 Jan 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/">
+            O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin
+            <small>01 Dec 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+    </div>
+
+  </body>
+</html>

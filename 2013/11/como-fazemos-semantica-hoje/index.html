@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Como fazemos semântica hoje &middot; software insane!
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          software insane!
+        </a>
+      </h1>
+      <p class="lead">A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde/archive/v2.1.0.zip">Download</a>
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde">GitHub project</a>
+      <span class="sidebar-nav-item">Currently v2.1.0</span>
+    </nav>
+
+    <p>&copy; 2017. All rights reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title">Como fazemos semântica hoje</h1>
+  <span class="post-date">16 Nov 2013</span>
+  <p><code class="highlighter-rouge">Apresentação de 2010 feita no TDC.&lt;br /&gt;
+Estava na VPIdata desenvolvendo um produto de análise textual.</code></p>
+
+<div style="margin-bottom: 5px;">
+  <strong> <a title="Como fazemos semântica hoje ? - TDC 2010" href="https://www.slideshare.net/vpidata/como-fazemos-semntica-hoje-tdc-2010" target="_blank">Como fazemos semântica hoje ? &#8211; TDC 2010</a> </strong> from <strong><a href="http://www.slideshare.net/vpidata" target="_blank">VPIData Inc.</a></strong>
+</div>
+
+<div style="margin-bottom: 5px;">
+</div>
+
+<div style="margin-bottom: 5px;">
+</div>
+
+<p><strong>Vídeos:</strong></p>
+
+<div style="margin-bottom: 5px;">
+  <!--more-->
+</div>
+
+<div style="margin-bottom: 5px;">
+  <ul>
+    <li>
+      1. Como  fazemos  semân,ca  hoje. Paulo Castro paulo.castro@vpidata.com Monday, August 23, 2010
+    </li>
+    <li>
+      2. Semântica ? Santo Graal Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      3. Semântica ? Santo Graal Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      4. Web semântica ? • é  uma  extensão  da  Web  atual  que  permi5rá  aos   computadores  e  humanos  trabalharem  em  cooperação.   Interliga  signiﬁcados  de  palavras  e  tem  como  ﬁnalidade   conseguir  atribuir  um  signiﬁcado  (sen5do)  aos  conteúdos   publicados  na  Internet  de  modo  que  seja  percepCvel  tanto   pelo  humano  como  pelo  computador. http://pt.wikipedia.org/wiki/Web_semântica Monday, August 23, 2010
+    </li>
+    <li>
+      5. Ontologia ? • 1.  Fil.  Parte  da  ﬁlosoﬁa  que  estuda  a  natureza  dos  seres,  o  ser   enquanto  ser. • 2.  Fil.  Doutrina  sobre  o  ser. • 3.  Inf.  Campo  da  informá5ca  que  trata  de  conceitualizar  de   forma  explícita  e  formal  (portanto  processável  por  máquina  e   compar5lhável)  conceitos  e  restrições  relacionados  a  certo   domínio  de  interesses iDicionário Aulete Monday, August 23, 2010
+    </li>
+    <li>
+      6. Taxonomia ? • (do  Grego  verbo  τασσεῖν  ou  tassein  =  &#8220;para  classiﬁcar&#8221;  e   νόμος  ou  nomos  =  lei,  ciência,  administrar). • 1  .Ciência  da  classiﬁcação. • 2.  Biol.  Ramo  da  biologia  que  cuida  de  descrever,  iden5ﬁcar  e   classiﬁcar  os  seres  vivos.  [Cf.  sistemá5ca.] • 3.  Bot.  Parte  da  botânica  que  trata  das  classiﬁcações  dos   elementos  vegetais. • 4.  Gram.  Ling.  Parte  da  gramá5ca  que  trata  da  classiﬁcação   das  palavras. • [F.:  tax(i/o)1  -­‐  +  -­‐nomia.  Sin.  ger.:  taxeonomia,  taxinomia,   http://pt.wikipedia.org/wiki/Taxonomia iDicionário Aulete Monday, August 23, 2010
+    </li>
+    <li>
+      7. Simple Math ? Top O= T | NT T | NT T | NT O &#8211; Ontologia T &#8211; Relação de Taxonomia (nome ao objeto). NT &#8211; Não Relação de Taxonomia (objeto). Monday, August 23, 2010
+    </li>
+    <li>
+      8. Albert Einsten http://uniat5401.ag5.mpi-sb.mpg.de:8180/webyago/html/graphViewer.html?entity=Albert_Einstein&amp;n=5 Monday, August 23, 2010
+    </li>
+    <li>
+      9. Chato ? Monday, August 23, 2010
+    </li>
+    <li>
+      10. Chato ? Voltando para o passado mas precisamente &#8230; Filmes da Sessão da Tarde. Monday, August 23, 2010
+    </li>
+    <li>
+      11. Lembra do Johnny 5 ? Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      12. Lembra do Johnny 5 ? Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      13. Johnny 5 ? Vídeo http://www.youtube.com/watch?v=FAyjdeEu7FA Monday, August 23, 2010
+    </li>
+    <li>
+      14. Sopa de letrinhas http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      15. Sopa de letrinhas http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      16. Sopa de letrinhas “maneira de identificar unicamente recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      17. Sopa de letrinhas “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      18. Sopa de letrinhas “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      19. Sopa de letrinhas “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      20. Sopa de letrinhas “definir um grande número de relações&#8230; definir classes como união ou intesecção de outras&#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      21. Sopa de letrinhas “regras para o tratamento da informação.” “definir um grande número de relações&#8230; definir classes como união ou intesecção de outras&#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      22. Sopa de letrinhas “verificar a consistência dos dados acessíves na Web Semântica.” “regras para o tratamento da informação.” “definir um grande número de relações&#8230; definir classes como união ou intesecção de outras&#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      23. Sopa de letrinhas “verificar a consistência dos dados acessíves na Web Semântica.” Confiança “regras para o tratamento da informação.” “definir um grande número de relações&#8230; definir classes como união ou intesecção de outras&#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    </li>
+    <li>
+      24. Sopa de letrinhas v2 http://www.semanticfocus.com/ Monday, August 23, 2010
+    </li>
+    <li>
+      25. RDF Resource Description Framework http://www.w3.org/RDF/ Monday, August 23, 2010
+    </li>
+    <li>
+      26. RDF Resource Description Framework http://www.w3.org/RDF/ Monday, August 23, 2010
+    </li>
+    <li>
+      27. RDF Resource Description Framework http://developer.yahoo.com/searchmonkey/smguide/index.html Monday, August 23, 2010
+    </li>
+    <li>
+      28. Aplicações atuais http://www.badassoftheweek.com/doc.html Monday, August 23, 2010
+    </li>
+    <li>
+      29. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    </li>
+    <li>
+      30. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    </li>
+    <li>
+      31. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    </li>
+    <li>
+      32. Search http://www.opensearch.org Monday, August 23, 2010
+    </li>
+    <li>
+      33. Motif http://labs.yahoo.com Monday, August 23, 2010
+    </li>
+    <li>
+      34. Motif http://labs.yahoo.com Monday, August 23, 2010
+    </li>
+    <li>
+      35. Medicina http://www.mavensemantic.com/ Monday, August 23, 2010
+    </li>
+    <li>
+      36. Parque de diversões http://www.opencalais.com/ Monday, August 23, 2010
+    </li>
+    <li>
+      37. Do it yourself! http://www.filmforum.org/films/dassin.html Monday, August 23, 2010
+    </li>
+    <li>
+      38. Dimensões&#8230; The State of the Art in Ontology Learning: A Framework for Comparison Mehrnoush Shamsfard and Ahmad Abdollahzadeh Barforoush Monday, August 23, 2010
+    </li>
+    <li>
+      39. It’s working Monday, August 23, 2010
+    </li>
+    <li>
+      40. It’s working 1 Monday, August 23, 2010
+    </li>
+    <li>
+      41. It’s working 2 1 Monday, August 23, 2010
+    </li>
+    <li>
+      42. Boa cabelo! 2 1 Monday, August 23, 2010
+    </li>
+    <li>
+      43. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. Monday, August 23, 2010
+    </li>
+    <li>
+      44. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monday, August 23, 2010
+    </li>
+    <li>
+      45. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monitoramento de mídias socias. Monday, August 23, 2010
+    </li>
+    <li>
+      46. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monitoramento de mídias socias. #WIN Monday, August 23, 2010
+    </li>
+    <li>
+      47. Monday, August 23, 2010
+    </li>
+    <li>
+      48. Sentimento Positivo Computação Globalcode Cursos #TDC2010 &#8211; Evento TDC http://www.thedevelopersconference.com.br/ Monday, August 23, 2010
+    </li>
+    <li>
+      49. PERFIL Monday, August 23, 2010
+    </li>
+    <li>
+      50. Cursos Linguagem Programação Globalcode Computação PERFIL Programador Monday, August 23, 2010
+    </li>
+    <li>
+      51. HOJE! 250 domínios 3402 palavras Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      52. HOJE! Fontes 250 domínios 3402 palavras Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      53. HOJE! Fontes 250 3402 Tecnologias domínios palavras Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      54. HOJE! Fontes 250 3402 Tecnologias domínios palavras Lançamento 20/Nov/2010 Google Images Monday, August 23, 2010
+    </li>
+    <li>
+      55. Dúvidas ? @paulorcf paulo.castro@vpidata.com http://www.vpidata.com Monday, August 23, 2010
+    </li>
+  </ul>
+</div>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2016/12/ml-foundations-docker-image/">
+            ML-Foundations Docker Image
+            <small>09 Dec 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/">
+            JBoss Fuse Workshop Desenvolvimento &#8211; Parte 1
+            <small>12 Jan 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/">
+            O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin
+            <small>01 Dec 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+    </div>
+
+  </body>
+</html>
