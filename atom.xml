@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>software insane!</title>
- <link href="http://www.paulorcf.com/atom.xml" rel="self"/>
- <link href="http://www.paulorcf.com/"/>
- <updated>2017-07-13T18:01:39-03:00</updated>
- <id>http://www.paulorcf.com</id>
+ <title>paulo castro blog!</title>
+ <link href="http://paulorcf.github.io/atom.xml" rel="self"/>
+ <link href="http://paulorcf.github.io/"/>
+ <updated>2017-07-19T17:03:03-03:00</updated>
+ <id>http://paulorcf.github.io</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Paulo Castro</name>
    <email></email>
  </author>
 
  
  <entry>
+   <title>Palestras TDC 2017 - SP</title>
+   <link href="http://paulorcf.github.io/2017/07/palestras-tdc-2017-sp/"/>
+   <updated>2017-07-18T22:35:20-03:00</updated>
+   <id>http://paulorcf.github.io/2017/07/palestras-tdc-sp-2017</id>
+   <content type="html">&lt;p&gt;Trilha: &lt;strong&gt;Arquitetura Corporativa&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Transformação Digital na Arquitetura: A incrível jornada&lt;/strong&gt;&lt;br /&gt;
+URL: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arquitetura-corporativa&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arquitetura-corporativa&lt;/a&gt;&lt;br /&gt;
+ &lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Usando como base o livro do “37 Things One Architect Knows About IT Transformation” do Gregor Hohpe, vamos discutir pontos de vista importantes na jornada do Arquiteto de Software no meio de uma transformação digital em curso.
+Nunca mande um humano fazer um trabalho da máquina. &lt;br /&gt;
+Se “Software está tomando o mundo”, melhor usar um controle de versão. &lt;br /&gt;
+Comunicação, mostrando o navio pirata para as crianças ou escrevendo para pessoas ocupadas. &lt;br /&gt;
+Controle é uma ilusão.&lt;br /&gt;
+Entre outros tópicos que de maneira engraçada iremos discutir nesta incrível jornada em curso com aprendizados, soluções técnicas e ferramentas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Em conjunto com meu amigo &lt;a href=&quot;https://github.com/Signorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;br /&gt;
+Trilha: &lt;strong&gt;Infraestrutura Ágil&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Borg até o Prometheus: Site Reliability Engineering&lt;/strong&gt;&lt;br /&gt;
+URL: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-infraestrutura-agil&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-infraestrutura-agil&lt;/a&gt;&lt;br /&gt;
+ &lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Apenas monitorar a infraestrutura não é o bastante, com as modernas arquiteturas de software e a necessidade de rápida entregas de software, começaram a exigir uma monitoria inteligente. &lt;br /&gt;
+Partindo do paper do Google apresentando o Borg iremos abordar os benefícios e técnicas para identificação de erros de forma granular traduzindo 0 e 1 para negócios.&lt;br /&gt;
+Com histórico de métricas “Time-series based”, alertas poderoso, bibliotecas de instrumentação em Java, Python, C#, Go, PHP, NodeJS, Erlang entre outros, apresentamos o Prometheus.io criado pela equipe do SoundCloud.&lt;br /&gt;
+O case é a implementação de nova equipe Site Reliability Engineering na estrutura de Operações de TI da B2W.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/content/screenshot_palestra_arquitetura_corporativa_tdc2017.png&quot; alt=&quot; &quot; title=&quot;Arquitetura Corporativa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/content/screenshot_palestra_infraestrutura_agil_tdc2017.png&quot; alt=&quot; &quot; title=&quot;Infraestrutura Ágil&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a new WordPress user, you should go to &lt;a href=&quot;http://www.paulorcf.com/wp-admin/&quot;&gt;your dashboard&lt;/a&gt; to delete this page and create new pages for your content. Have fun!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>ML-Foundations Docker Image</title>
-   <link href="http://www.paulorcf.com/2016/12/ml-foundations-docker-image/"/>
+   <link href="http://paulorcf.github.io/2016/12/ml-foundations-docker-image/"/>
    <updated>2016-12-09T15:51:43-02:00</updated>
-   <id>http://www.paulorcf.com/2016/12/ml-foundations-docker-image</id>
+   <id>http://paulorcf.github.io/2016/12/ml-foundations-docker-image</id>
    <content type="html">&lt;p&gt;I publish a docker image to help on the &lt;a href=&quot;https://www.coursera.org/learn/ml-foundations&quot; target=&quot;_blank&quot;&gt;Machine Learning Foundations: A Case Study Approach at Coursera&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;They setup all Anaconda, Graphlab, Jypiter and Ipython for you!&lt;/p&gt;
@@ -29,9 +69,9 @@
  
  <entry>
    <title>JBoss Fuse Workshop Desenvolvimento &#8211; Parte 1</title>
-   <link href="http://www.paulorcf.com/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/"/>
+   <link href="http://paulorcf.github.io/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/"/>
    <updated>2015-01-12T09:32:11-02:00</updated>
-   <id>http://www.paulorcf.com/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1</id>
+   <id>http://paulorcf.github.io/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1</id>
    <content type="html">&lt;p&gt;Esse semana começo a publicar treinamento completo focado para desenvolvimento do produto Red Hat Fuse (antigo FuseSource).&lt;/p&gt;
 
 &lt;p&gt;Curso será dividido em 6 partes:&lt;/p&gt;
@@ -137,9 +177,9 @@
  
  <entry>
    <title>O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin</title>
-   <link href="http://www.paulorcf.com/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/"/>
+   <link href="http://paulorcf.github.io/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/"/>
    <updated>2014-12-01T07:43:59-02:00</updated>
-   <id>http://www.paulorcf.com/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin</id>
+   <id>http://paulorcf.github.io/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin</id>
    <content type="html">&lt;p&gt;Alguns bons pontos sobre TDD.&lt;/p&gt;
 
 &lt;p&gt;RailsConf 09: Robert Martin, “What Killed Smalltalk Could Kill Ruby”.&lt;/p&gt;
@@ -151,9 +191,9 @@
  
  <entry>
    <title>Planos de governo &#8211; Presidente 2014</title>
-   <link href="http://www.paulorcf.com/2014/10/planos-de-governo-presidente-2014/"/>
+   <link href="http://paulorcf.github.io/2014/10/planos-de-governo-presidente-2014/"/>
    <updated>2014-10-07T14:39:32-03:00</updated>
-   <id>http://www.paulorcf.com/2014/10/planos-de-governo-presidente-2014</id>
+   <id>http://paulorcf.github.io/2014/10/planos-de-governo-presidente-2014</id>
    <content type="html">&lt;p&gt;Vamos ao 2nd turno da Eleição.&lt;/p&gt;
 
 &lt;p&gt;Dilma:&lt;/p&gt;
@@ -176,9 +216,9 @@
  
  <entry>
    <title>Topology and orchestration specification for cloud applications</title>
-   <link href="http://www.paulorcf.com/2014/04/topology-orchestration-specification-cloud-applications/"/>
+   <link href="http://paulorcf.github.io/2014/04/topology-orchestration-specification-cloud-applications/"/>
    <updated>2014-04-29T15:40:04-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/topology-orchestration-specification-cloud-applications</id>
+   <id>http://paulorcf.github.io/2014/04/topology-orchestration-specification-cloud-applications</id>
    <content type="html">&lt;div style=&quot;margin-bottom:5px&quot;&gt;
   &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/OpenTOSCA/tosca-and-opentosca-tosca-introduction-and-opentosca-ecosystem-overview&quot; title=&quot;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&quot; target=&quot;_blank&quot;&gt;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/OpenTOSCA&quot; target=&quot;_blank&quot;&gt;OpenTOSCA&lt;/a&gt;&lt;/strong&gt;
 &lt;/div&gt;
@@ -195,9 +235,9 @@
  
  <entry>
    <title>Palestra TDC &#8211; Cloud Computing &#8211; Libvirt e Libguestfs &#8211; O caminho automação da virtualização</title>
-   <link href="http://www.paulorcf.com/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao/"/>
+   <link href="http://paulorcf.github.io/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao/"/>
    <updated>2014-04-24T17:22:25-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao</id>
+   <id>http://paulorcf.github.io/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao</id>
    <content type="html">&lt;p&gt;Palestra aprovada.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Libvirt e Libguestfs – O caminho automação da virtualização&lt;/strong&gt;&lt;/p&gt;
@@ -245,9 +285,9 @@
  
  <entry>
    <title>Killing running thread in JBoss</title>
-   <link href="http://www.paulorcf.com/2014/04/kill-running-thread-jboss/"/>
+   <link href="http://paulorcf.github.io/2014/04/kill-running-thread-jboss/"/>
    <updated>2014-04-24T17:10:25-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/kill-running-thread-jboss</id>
+   <id>http://paulorcf.github.io/2014/04/kill-running-thread-jboss</id>
    <content type="html">&lt;p&gt;Quick how to, check update to more information. Worked with JBoss 6.1 EAP.&lt;/p&gt;
 
 &lt;p&gt;This not work with locked thread.&lt;/p&gt;
@@ -296,9 +336,9 @@
  
  <entry>
    <title>Parsible &#8211; Transforme seu log em informação qualitativa</title>
-   <link href="http://www.paulorcf.com/2014/04/parsible/"/>
+   <link href="http://paulorcf.github.io/2014/04/parsible/"/>
    <updated>2014-04-24T16:55:11-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/parsible</id>
+   <id>http://paulorcf.github.io/2014/04/parsible</id>
    <content type="html">&lt;p&gt;Precisava à partir do log do XEN – LIBXL obter informações sobre mudança de estados das máquinas virtuais.&lt;/p&gt;
 
 &lt;p&gt;Parsible é uma ferramenta que faz parser de log e ajuda a transformar em informação qualitativa. O ciclo de leitura do arquivo e stream de linha por linha fica a cargo do Parsible, sendo assim, desenvolvedor só precisa escrever uma função de parser.&lt;/p&gt;
@@ -499,9 +539,9 @@ def broadcast_shutdown(vmName, actionDetail ):
  
  <entry>
    <title>FISL15 &#8211; DIYbio hackeando o software da vida</title>
-   <link href="http://www.paulorcf.com/2014/04/fisl15-diybio-hackeando-o-software-da-vida/"/>
+   <link href="http://paulorcf.github.io/2014/04/fisl15-diybio-hackeando-o-software-da-vida/"/>
    <updated>2014-04-03T13:23:38-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/fisl15-diybio-hackeando-o-software-da-vida</id>
+   <id>http://paulorcf.github.io/2014/04/fisl15-diybio-hackeando-o-software-da-vida</id>
    <content type="html">&lt;p&gt;Confirmada para dia 10/05/2014, 16:00hrs no salão 41F (250 lugares).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png&quot; alt=&quot;palestraNaGrade_V1&quot; width=&quot;584&quot; height=&quot;324&quot; class=&quot;aligncenter size-large wp-image-70&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-300x166.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-500x278.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png 1165w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -536,9 +576,9 @@ def broadcast_shutdown(vmName, actionDetail ):
  
  <entry>
    <title>Install virt-v2v on Debian from source</title>
-   <link href="http://www.paulorcf.com/2014/04/install-virt-v2v-debian/"/>
+   <link href="http://paulorcf.github.io/2014/04/install-virt-v2v-debian/"/>
    <updated>2014-04-02T11:22:17-03:00</updated>
-   <id>http://www.paulorcf.com/2014/04/install-virt-v2v-debian</id>
+   <id>http://paulorcf.github.io/2014/04/install-virt-v2v-debian</id>
    <content type="html">&lt;p&gt;Howto install virt-v2v from source code on Debian or Ubuntu.&lt;/p&gt;
 
 &lt;pre class=&quot;theme:inlellij-idea lang:sh decode:true &quot;&gt;git clone https://git.fedorahosted.org/git/virt-v2v.git
@@ -562,9 +602,9 @@ sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
  
  <entry>
    <title>Marco Civil da Internet &#8211; Saiam da Dialética</title>
-   <link href="http://www.paulorcf.com/2014/03/marco-civil-da-internet-saiam-da-dialetica/"/>
+   <link href="http://paulorcf.github.io/2014/03/marco-civil-da-internet-saiam-da-dialetica/"/>
    <updated>2014-03-14T10:27:27-03:00</updated>
-   <id>http://www.paulorcf.com/2014/03/marco-civil-da-internet-saiam-da-dialetica</id>
+   <id>http://paulorcf.github.io/2014/03/marco-civil-da-internet-saiam-da-dialetica</id>
    <content type="html">&lt;p&gt;Dialética PT vs. PSDB saiam dessa, por favor leiam a lei.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=912989&amp;amp;filename=PL+2126/2011&quot;&gt;http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=912989&amp;amp;filename=PL+2126/2011&lt;/a&gt;&lt;/p&gt;
@@ -583,9 +623,9 @@ sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
  
  <entry>
    <title>Fundação Bradesco &#8211; Curso de Android</title>
-   <link href="http://www.paulorcf.com/2013/12/fb-android-2013/"/>
+   <link href="http://paulorcf.github.io/2013/12/fb-android-2013/"/>
    <updated>2013-12-16T11:55:10-02:00</updated>
-   <id>http://www.paulorcf.com/2013/12/fb-android-2013</id>
+   <id>http://paulorcf.github.io/2013/12/fb-android-2013</id>
    <content type="html">&lt;p&gt;Caros alunos da Info B,&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1x9sbDFqQpO5k7DnRWjk3bYWn0fNZWKiLtNajpZeMjgM/viewform&quot; target=&quot;_blank&quot;&gt;Formulário para envio dos exercícios.&lt;/a&gt;&lt;/p&gt;
@@ -598,9 +638,9 @@ sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
  
  <entry>
    <title>Fundação Bradesco &#8211; Curso de Fundamentos de Dispositivos Móveis</title>
-   <link href="http://www.paulorcf.com/2013/12/fb-fdm/"/>
+   <link href="http://paulorcf.github.io/2013/12/fb-fdm/"/>
    <updated>2013-12-11T10:55:16-02:00</updated>
-   <id>http://www.paulorcf.com/2013/12/fb-fdm</id>
+   <id>http://paulorcf.github.io/2013/12/fb-fdm</id>
    <content type="html">&lt;p&gt;Caros alunos do técnico de informática – Turma B:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/rcryxezwcww2p71/Fundamentos%20de%20Aplica%C3%A7%C3%B5es%20M%C3%B3veis.zip&quot;&gt;Download do material da Prof. Ivana&lt;/a&gt;&lt;/p&gt;
@@ -615,9 +655,9 @@ sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
  
  <entry>
    <title>Preços de Cloud Providers &#8211; Brasil</title>
-   <link href="http://www.paulorcf.com/2013/11/precos-de-cloud-providers-brasil/"/>
+   <link href="http://paulorcf.github.io/2013/11/precos-de-cloud-providers-brasil/"/>
    <updated>2013-11-18T09:51:40-02:00</updated>
-   <id>http://www.paulorcf.com/2013/11/precos-de-cloud-providers-brasil</id>
+   <id>http://paulorcf.github.io/2013/11/precos-de-cloud-providers-brasil</id>
    <content type="html">&lt;p&gt;Estudo feito em conjunto do Pedro Augusto sobre os preços macros de Cloud providers Brasileiros.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2013/11/Levantamento_cloud_tabelaPreco_Brasil_v4.pdf&quot;&gt;Levantamento_cloud_tabelaPreco_Brasil_v4.pdf&lt;/a&gt;&lt;/p&gt;
@@ -648,9 +688,9 @@ sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
  
  <entry>
    <title>Vagrant &#8211; Exemplo simples</title>
-   <link href="http://www.paulorcf.com/2013/11/vagrant-basic-example/"/>
+   <link href="http://paulorcf.github.io/2013/11/vagrant-basic-example/"/>
    <updated>2013-11-16T20:48:42-02:00</updated>
-   <id>http://www.paulorcf.com/2013/11/vagrant-basic-example</id>
+   <id>http://paulorcf.github.io/2013/11/vagrant-basic-example</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.vagrantup.com/&quot; target=&quot;_blank&quot;&gt;Vagrant&lt;/a&gt; é um wapper para VirtualBox e agora Vmware que permite provisionar máquinas virtuais à partir de configurações programáticas.&lt;/p&gt;
 
 &lt;p&gt;O exemplo abaixo foi criado para rodar Httrack e um aplicativo em Java.&lt;/p&gt;
@@ -801,9 +841,9 @@ end&lt;/code&gt;&lt;/pre&gt;
  
  <entry>
    <title>Como fazemos semântica hoje</title>
-   <link href="http://www.paulorcf.com/2013/11/como-fazemos-semantica-hoje/"/>
+   <link href="http://paulorcf.github.io/2013/11/como-fazemos-semantica-hoje/"/>
    <updated>2013-11-16T19:58:58-02:00</updated>
-   <id>http://www.paulorcf.com/2013/11/como-fazemos-semantica-hoje</id>
+   <id>http://paulorcf.github.io/2013/11/como-fazemos-semantica-hoje</id>
    <content type="html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Apresentação de 2010 feita no TDC.&amp;lt;br /&amp;gt;
 Estava na VPIdata desenvolvendo um produto de análise textual.&lt;/code&gt;&lt;/p&gt;
 
