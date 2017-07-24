@@ -4,13 +4,38 @@
  <title>paulo castro blog!</title>
  <link href="http://paulorcf.github.io/atom.xml" rel="self"/>
  <link href="http://paulorcf.github.io/"/>
- <updated>2017-07-19T17:09:01-03:00</updated>
+ <updated>2017-07-24T11:54:59-03:00</updated>
  <id>http://paulorcf.github.io</id>
  <author>
    <name>Paulo Castro</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Slides - Palestras TDC 2017 - SP</title>
+   <link href="http://paulorcf.github.io/2017/07/slides-palestras-tdc-2017-sp/"/>
+   <updated>2017-07-24T08:45:20-03:00</updated>
+   <id>http://paulorcf.github.io/2017/07/slides-palestras-tdc-sp-2017</id>
+   <content type="html">&lt;p&gt;Trilha: &lt;strong&gt;Arquitetura Corporativa&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Transformação Digital na Arquitetura: A incrível jornada&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/FU9W5MTPG5lRz6&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/paulorcf/tdc-2017-transformao-digital-incrivel-jornada&quot; title=&quot;TDC 2017 - Transformação digital - Incrivel jornada&quot; target=&quot;_blank&quot;&gt;TDC 2017 - Transformação digital - Incrivel jornada&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/paulorcf&quot;&gt;Paulo Roberto de Castro Filho&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Em conjunto com meu amigo &lt;a href=&quot;https://github.com/Signorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;br /&gt;
+Trilha: &lt;strong&gt;Infraestrutura Ágil&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Borg até o Prometheus: Site Reliability Engineering&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hMXSHryVC3XQ1w&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/felipesignorini/tdc-2017-borg-at-o-prometheus-site-reliability-engineering&quot; title=&quot;TDC 2017 - Borg até o Prometheus: Site Reliability Engineering&quot; target=&quot;_blank&quot;&gt;TDC 2017 - Borg até o Prometheus: Site Reliability Engineering&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/felipesignorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Palestras TDC 2017 - SP</title>
