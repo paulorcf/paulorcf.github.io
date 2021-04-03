@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://paulorcf.github.io/sitemap.xml

@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>paulo castro blog!</title>
+ <link href="https://paulorcf.github.io/atom.xml" rel="self"/>
+ <link href="https://paulorcf.github.io/"/>
+ <updated>2017-07-24T15:45:22-03:00</updated>
+ <id>https://paulorcf.github.io</id>
+ <author>
+   <name>Paulo Castro</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Slides - Palestras TDC 2017 - SP</title>
+   <link href="https://paulorcf.github.io/2017/07/slides-palestras-tdc-2017-sp/"/>
+   <updated>2017-07-24T08:45:20-03:00</updated>
+   <id>https://paulorcf.github.io/2017/07/slides-palestras-tdc-sp-2017</id>
+   <content type="html">&lt;p&gt;Trilha: &lt;strong&gt;Arquitetura Corporativa&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Transformação Digital na Arquitetura: A incrível jornada&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/FU9W5MTPG5lRz6&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/paulorcf/tdc-2017-transformao-digital-incrivel-jornada&quot; title=&quot;TDC 2017 - Transformação digital - Incrivel jornada&quot; target=&quot;_blank&quot;&gt;TDC 2017 - Transformação digital - Incrivel jornada&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/paulorcf&quot;&gt;Paulo Roberto de Castro Filho&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Em conjunto com meu amigo &lt;a href=&quot;https://github.com/Signorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;br /&gt;
+Trilha: &lt;strong&gt;Infraestrutura Ágil&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Borg até o Prometheus: Site Reliability Engineering&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hMXSHryVC3XQ1w&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/felipesignorini/tdc-2017-borg-at-o-prometheus-site-reliability-engineering&quot; title=&quot;TDC 2017 - Borg até o Prometheus: Site Reliability Engineering&quot; target=&quot;_blank&quot;&gt;TDC 2017 - Borg até o Prometheus: Site Reliability Engineering&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/felipesignorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Palestras TDC 2017 - SP</title>
+   <link href="https://paulorcf.github.io/2017/07/palestras-tdc-2017-sp/"/>
+   <updated>2017-07-18T22:35:20-03:00</updated>
+   <id>https://paulorcf.github.io/2017/07/palestras-tdc-sp-2017</id>
+   <content type="html">&lt;p&gt;Trilha: &lt;strong&gt;Arquitetura Corporativa&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Transformação Digital na Arquitetura: A incrível jornada&lt;/strong&gt;&lt;br /&gt;
+URL: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arquitetura-corporativa&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arquitetura-corporativa&lt;/a&gt;&lt;br /&gt;
+ &lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Usando como base o livro do “37 Things One Architect Knows About IT Transformation” do Gregor Hohpe, vamos discutir pontos de vista importantes na jornada do Arquiteto de Software no meio de uma transformação digital em curso.
+Nunca mande um humano fazer um trabalho da máquina. &lt;br /&gt;
+Se “Software está tomando o mundo”, melhor usar um controle de versão. &lt;br /&gt;
+Comunicação, mostrando o navio pirata para as crianças ou escrevendo para pessoas ocupadas. &lt;br /&gt;
+Controle é uma ilusão.&lt;br /&gt;
+Entre outros tópicos que de maneira engraçada iremos discutir nesta incrível jornada em curso com aprendizados, soluções técnicas e ferramentas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Em conjunto com meu amigo &lt;a href=&quot;https://github.com/Signorini&quot;&gt;Felipe Klerk Signorini&lt;/a&gt;&lt;br /&gt;
+Trilha: &lt;strong&gt;Infraestrutura Ágil&lt;/strong&gt;&lt;br /&gt;
+Palestra: &lt;strong&gt;Borg até o Prometheus: Site Reliability Engineering&lt;/strong&gt;&lt;br /&gt;
+URL: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-infraestrutura-agil&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-infraestrutura-agil&lt;/a&gt;&lt;br /&gt;
+ &lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Apenas monitorar a infraestrutura não é o bastante, com as modernas arquiteturas de software e a necessidade de rápida entregas de software, começaram a exigir uma monitoria inteligente. &lt;br /&gt;
+Partindo do paper do Google apresentando o Borg iremos abordar os benefícios e técnicas para identificação de erros de forma granular traduzindo 0 e 1 para negócios.&lt;br /&gt;
+Com histórico de métricas “Time-series based”, alertas poderoso, bibliotecas de instrumentação em Java, Python, C#, Go, PHP, NodeJS, Erlang entre outros, apresentamos o Prometheus.io criado pela equipe do SoundCloud.&lt;br /&gt;
+O case é a implementação de nova equipe Site Reliability Engineering na estrutura de Operações de TI da B2W.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/content/screenshot_palestra_arquitetura_corporativa_tdc2017.png&quot; alt=&quot; &quot; title=&quot;Arquitetura Corporativa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/content/screenshot_palestra_infraestrutura_agil_tdc2017.png&quot; alt=&quot; &quot; title=&quot;Infraestrutura Ágil&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ML-Foundations Docker Image</title>
+   <link href="https://paulorcf.github.io/2016/12/ml-foundations-docker-image/"/>
+   <updated>2016-12-09T15:51:43-02:00</updated>
+   <id>https://paulorcf.github.io/2016/12/ml-foundations-docker-image</id>
+   <content type="html">&lt;p&gt;I publish a docker image to help on the &lt;a href=&quot;https://www.coursera.org/learn/ml-foundations&quot; target=&quot;_blank&quot;&gt;Machine Learning Foundations: A Case Study Approach at Coursera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They setup all Anaconda, Graphlab, Jypiter and Ipython for you!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulorcf/ml-foundations-coursera-docker&quot;&gt;https://github.com/paulorcf/ml-foundations-coursera-docker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy learning!! 🙂&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JBoss Fuse Workshop Desenvolvimento &#8211; Parte 1</title>
+   <link href="https://paulorcf.github.io/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1/"/>
+   <updated>2015-01-12T09:32:11-02:00</updated>
+   <id>https://paulorcf.github.io/2015/01/jboss-fuse-workshop-desenvolvimento-parte-1</id>
+   <content type="html">&lt;p&gt;Esse semana começo a publicar treinamento completo focado para desenvolvimento do produto Red Hat Fuse (antigo FuseSource).&lt;/p&gt;
+
+&lt;p&gt;Curso será dividido em 6 partes:&lt;/p&gt;
+
+&lt;p&gt;– Apache Karaf.&lt;/p&gt;
+
+&lt;p&gt;– Apache Karaf – Hands on.&lt;/p&gt;
+
+&lt;p&gt;– Apache Camel.&lt;/p&gt;
+
+&lt;p&gt;– Apache Camel – Hands on.&lt;/p&gt;
+
+&lt;p&gt;– Apache ActiveMq.&lt;/p&gt;
+
+&lt;p&gt;– Apache ActiveMq – Hands on.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div&gt;
+  &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/nuQSsxI32mHdX5&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+  &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/paulorcf/1-j-bossfuseworkshopdesenvolvimentov3parte1manha&quot; title=&quot;JBoss Fuse Workshop Desenvolvimento - Parte 1&quot; target=&quot;_blank&quot;&gt;JBoss Fuse Workshop Desenvolvimento - Parte 1&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/paulorcf&quot;&gt;Paulo Roberto de Castro Filho&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Interessados nos exercícios e no download da máquina virtual ?&lt;/p&gt;
+
+&lt;p&gt;Me contacte: &lt;em&gt;paulof at gmail dot com&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ementa: JBoss Fuse Workshop Desenvolvimento – Parte 1&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Introdução ao JBoss Fuse.&lt;/p&gt;
+
+    &lt;p&gt;História.&lt;/p&gt;
+
+    &lt;p&gt;SOA.&lt;/p&gt;
+
+    &lt;p&gt;ESB.&lt;/p&gt;
+
+    &lt;p&gt;EIP.&lt;/p&gt;
+
+    &lt;p&gt;Fuse&lt;/p&gt;
+
+    &lt;p&gt;Componentes.&lt;/p&gt;
+
+    &lt;p&gt;Fabric&lt;/p&gt;
+
+    &lt;p&gt;Fuse IDE.&lt;/p&gt;
+
+    &lt;p&gt;Fuse Service Works.&lt;/p&gt;
+
+    &lt;p&gt;SwitchYard.&lt;/p&gt;
+
+    &lt;p&gt;Overlord.&lt;/p&gt;
+
+    &lt;p&gt;Apache Karaf&lt;/p&gt;
+
+    &lt;p&gt;Arquitetura.&lt;/p&gt;
+
+    &lt;p&gt;Definições.&lt;/p&gt;
+
+    &lt;p&gt;Benefícios.&lt;/p&gt;
+
+    &lt;p&gt;OSGi&lt;/p&gt;
+
+    &lt;p&gt;Deployment&lt;/p&gt;
+
+    &lt;p&gt;Provisionamento&lt;/p&gt;
+
+    &lt;p&gt;Gerenciamento.&lt;/p&gt;
+
+    &lt;p&gt;Console Administrativo.&lt;/p&gt;
+
+    &lt;p&gt;Logging.&lt;/p&gt;
+
+    &lt;p&gt;Administração.&lt;/p&gt;
+
+    &lt;p&gt;Configuração.&lt;/p&gt;
+
+    &lt;p&gt;Aplicações de Patches.&lt;/p&gt;
+
+    &lt;p&gt;Múltiplas instâncias.&lt;/p&gt;
+
+    &lt;p&gt;Deployment failover.&lt;/p&gt;
+
+    &lt;p&gt;Segurança.&lt;/p&gt;
+
+    &lt;p&gt;Console.&lt;/p&gt;
+
+    &lt;p&gt;Extras&lt;/p&gt;
+
+    &lt;p&gt;Message Broker.&lt;/p&gt;
+
+    &lt;p&gt;ActiveMQ Web Console.&lt;/p&gt;
+
+    &lt;p&gt;Gerenciamento Fabric.&lt;/p&gt;
+
+    &lt;p&gt;Infraestrutura.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>O quê matou Smalltalk pode matar Ruby! Palestra Robert Martin</title>
+   <link href="https://paulorcf.github.io/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin/"/>
+   <updated>2014-12-01T07:43:59-02:00</updated>
+   <id>https://paulorcf.github.io/2014/12/o-que-matou-smalltalk-pode-matar-ruby-palestra-robert-martin</id>
+   <content type="html">&lt;p&gt;Alguns bons pontos sobre TDD.&lt;/p&gt;
+
+&lt;p&gt;RailsConf 09: Robert Martin, “What Killed Smalltalk Could Kill Ruby”.&lt;/p&gt;
+&lt;div&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YX3iRjKj7C0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Planos de governo &#8211; Presidente 2014</title>
+   <link href="https://paulorcf.github.io/2014/10/planos-de-governo-presidente-2014/"/>
+   <updated>2014-10-07T14:39:32-03:00</updated>
+   <id>https://paulorcf.github.io/2014/10/planos-de-governo-presidente-2014</id>
+   <content type="html">&lt;p&gt;Vamos ao 2nd turno da Eleição.&lt;/p&gt;
+
+&lt;p&gt;Dilma:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pt.org.br/wp-content/uploads/2014/07/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&quot;&gt;https://www.pt.org.br/wp-content/uploads/2014/07/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Aécio:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://static.psdb.org.br/wp-content/uploads/2014/07/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf&quot;&gt;http://static.psdb.org.br/wp-content/uploads/2014/07/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso apaguem subi no blog:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/10/Prog-de-Governo-Dilma-2014-INTERNET1.pdf&quot;&gt;Prog-de-Governo-Dilma-2014-INTERNET1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/f255h21ww8dsjpn/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf?dl=0&quot; title=&quot;Prog-de-Governo-Aecio-2014&quot;&gt;https://www.dropbox.com/s/f255h21ww8dsjpn/diretrizes_plano_de_governo_aecio_neves-atualizado.pdf?dl=0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Topology and orchestration specification for cloud applications</title>
+   <link href="https://paulorcf.github.io/2014/04/topology-orchestration-specification-cloud-applications/"/>
+   <updated>2014-04-29T15:40:04-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/topology-orchestration-specification-cloud-applications</id>
+   <content type="html">&lt;div style=&quot;margin-bottom:5px&quot;&gt;
+  &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/OpenTOSCA/tosca-and-opentosca-tosca-introduction-and-opentosca-ecosystem-overview&quot; title=&quot;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&quot; target=&quot;_blank&quot;&gt;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/OpenTOSCA&quot; target=&quot;_blank&quot;&gt;OpenTOSCA&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;TOSCA and OpenTOSCA: TOSCA Introduction and OpenTOSCA Ecosystem Overview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.openstack.org/w/images/a/a1/TOSCA_in_Heat_-_20130415.pdf&quot; target=&quot;_blank&quot;&gt;Tosca in OpenStack HEAT.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html&quot; target=&quot;_blank&quot;&gt;OASIS Spec 1.0 – TOSCA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca&quot; target=&quot;_blank&quot;&gt;OASIS – TOSCA page&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Palestra TDC &#8211; Cloud Computing &#8211; Libvirt e Libguestfs &#8211; O caminho automação da virtualização</title>
+   <link href="https://paulorcf.github.io/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao/"/>
+   <updated>2014-04-24T17:22:25-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/palestra-tdc-cloud-computing-libvirt-e-libguestfs-o-caminho-automacao-da-virtualizacao</id>
+   <content type="html">&lt;p&gt;Palestra aprovada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Libvirt e Libguestfs – O caminho automação da virtualização&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Paulo Roberto de Castro Filho&lt;/p&gt;
+
+&lt;p&gt;Introdução a virtualização com open-source.&lt;/p&gt;
+
+&lt;p&gt;Arquitetura KVM e XEN.&lt;/p&gt;
+
+&lt;p&gt;Como domar e automatizar tarefas com diversos Hypervisors.&lt;/p&gt;
+
+&lt;p&gt;Libvirt é um toolkit que interage com sistemas de virtualização como Xen e KVM entre outros.&lt;/p&gt;
+
+&lt;p&gt;Libguestfs é outro toolkit para acessar e modificar discos de máquinas virtuais.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-1024x640.png&quot; alt=&quot;Palestra TDC 2014 - Floripa&quot; width=&quot;584&quot; height=&quot;365&quot; class=&quot;aligncenter size-large wp-image-91&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-1024x640.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-300x187.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa-500x312.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/libvirt_tdc2014_floripa.png 1280w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/inscricoes&quot; target=&quot;_blank&quot;&gt;Participe!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Data e Local&lt;/p&gt;
+
+&lt;p&gt;Sexta-feira, 16 de Maio de 2014&lt;/p&gt;
+
+&lt;p&gt;8:30 às 18:30&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.oceaniaparkhotel.com.br/centro-convencoes/&quot; target=&quot;_blank&quot;&gt;Oceania Convention Center&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rua do Marisco, 550 – 88058-090&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Praia dos Ingleses&lt;/td&gt;
+      &lt;td&gt;Florianópolis – SC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/data-e-local&quot; target=&quot;_blank&quot;&gt;Informações sobre Data e Local&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais informações: &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/trilha-cloud-computing&quot;&gt;http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/trilha-cloud-computing&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Killing running thread in JBoss</title>
+   <link href="https://paulorcf.github.io/2014/04/kill-running-thread-jboss/"/>
+   <updated>2014-04-24T17:10:25-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/kill-running-thread-jboss</id>
+   <content type="html">&lt;p&gt;Quick how to, check update to more information. Worked with JBoss 6.1 EAP.&lt;/p&gt;
+
+&lt;p&gt;This not work with locked thread.&lt;/p&gt;
+
+&lt;p&gt;Checking process PID&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;jps&lt;/pre&gt;
+
+&lt;p&gt;Output something like this:&lt;/p&gt;
+
+&lt;p&gt;12124 Jps&lt;/p&gt;
+
+&lt;p&gt;24541 jboss-modules.jar&lt;/p&gt;
+
+&lt;p&gt;Generate DUMP for JBoss Process&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;jstack 24541 &amp;gt;&amp;gt; /tmp/dump_24042014_1754.txt  # 24541 is JBoss PID&lt;/pre&gt;
+
+&lt;p&gt;Checking the Thread name&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot;&gt;cat /tmp/dump_24042014_1754.txt | grep -i &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;Output something like this:&lt;/p&gt;
+
+&lt;p&gt;“http-/0.0.0.0:8080-9” daemon prio=10 tid=0x00007f2ea8094800 nid=0x6073 runnable [0x00007f2e9df10000]&lt;/p&gt;
+
+&lt;p&gt;Running JKillThread&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;running JKillThread&quot;&gt;java -jar jkillthread-1.0-SNAPSHOT.jar 24541 &quot;http-/0.0.0.0:8080-9&quot;
+# 24541 is JBoss PID
+# Thread Name is &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;Checking in JBoss log (standalone running mode)&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;reading JBoss log&quot;&gt;tail -50f /usr/java/jboss-eap-6.2/standalone/log/server.log&lt;/pre&gt;
+
+&lt;p&gt;Output something like:&lt;/p&gt;
+
+&lt;pre class=&quot;lang:sh decode:true &quot; title=&quot;output JBoss&quot;&gt;24-04-2014 17:56:10,410 ERROR [stderr] (Attach Listener) Killing &quot;http-/0.0.0.0:8080-9&quot;&lt;/pre&gt;
+
+&lt;p&gt;References and Resources&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jglick/jkillthread&quot;&gt;JKillThread&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parsible &#8211; Transforme seu log em informação qualitativa</title>
+   <link href="https://paulorcf.github.io/2014/04/parsible/"/>
+   <updated>2014-04-24T16:55:11-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/parsible</id>
+   <content type="html">&lt;p&gt;Precisava à partir do log do XEN – LIBXL obter informações sobre mudança de estados das máquinas virtuais.&lt;/p&gt;
+
+&lt;p&gt;Parsible é uma ferramenta que faz parser de log e ajuda a transformar em informação qualitativa. O ciclo de leitura do arquivo e stream de linha por linha fica a cargo do Parsible, sendo assim, desenvolvedor só precisa escrever uma função de parser.&lt;/p&gt;
+
+&lt;p&gt;O Parsible abre uma thread que fica lendo o arquivo de trás para frente (igual um tail -f), já está pronto para rotate de log e fica a cargo do desenvolvedor rodar apenas um parser ou carregar todos os parsers.&lt;/p&gt;
+
+&lt;p&gt;Fluxo básico (mais detalhes diagrama de sequência abaixo):&lt;/p&gt;
+
+&lt;p&gt;Arquivo atualizado -&amp;gt; parse -&amp;gt; processor -&amp;gt; output.&lt;/p&gt;
+
+&lt;p&gt;Output pode chamar um serviço REST, mandar os dados para um Riemann ou Graphite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diagramas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png&quot; alt=&quot;Abstract_Parsible_Class_Diagram&quot; width=&quot;584&quot; height=&quot;404&quot; class=&quot;aligncenter size-large wp-image-66&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-1024x710.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-300x208.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram-500x347.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Parsible_Class_Diagram.png 1210w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png&quot; alt=&quot;Abstract_Flow_Parsible_Sequence_Diagram&quot; width=&quot;584&quot; height=&quot;302&quot; class=&quot;aligncenter size-large wp-image-65&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-1024x530.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-300x155.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram-500x258.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/Abstract_Flow_Parsible_Sequence_Diagram.png 1433w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemplos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;lang:python mark:5 decode:true &quot; title=&quot;xen42.py - Parser&quot;&gt;import re
+import logging
+
+
+def parse_xend42(line):
+    &quot;&quot;&quot;
+    This parser try parser only details information about xend42 events.
+        Example:
+            [2014-03-25 13:17:02 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=CD976431-linux-centos-6-64b-base-sx-1819 id=5
+            30 reason=poweroff.
+
+            [2014-03-26 12:00:33 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=549 reason=reboot.
+
+            [2014-03-26 12:05:16 2140] INFO (XendDomainInfo:2079) Domain has shutdown: name=tempoexpress id=550 reason=poweroff.
+
+        They extract this information:
+            @Parsed
+            libname (XendDomainInfo:2079)
+            loglevel INFO
+            actionDetail reason=poweroff. : split(&quot;=&quot;) get only poweroff
+            date [2014-03-25 : strip [
+
+            time 13:17:02
+            action shutdown:
+            vmName name=CD976431-linux-centos-6-64b-base-sx-1819 : split(&quot;=&quot;) get only CD976431-linux-centos-6-64b-base-sx-1819
+            id id=530 : split(&quot;=&quot;) get only 530
+
+            @Ignored for now:
+            domain Domain
+            has has
+            timeid 2140]
+    &quot;&quot;&quot;
+    line = line.strip()
+
+    # Shutdown
+    regex = re.compile(&quot;(?P&amp;lt;date&amp;gt;[\w\S]+)\s(?P&amp;lt;time&amp;gt;[\w\S]+)\s(?P&amp;lt;timeid&amp;gt;[\w\S]+)\s(?P&amp;lt;loglevel&amp;gt;[\w\S]+)\s(?P&amp;lt;libname&amp;gt;[\w\S]+)\s(?P&amp;lt;domain&amp;gt;[\w\S]+)\s(?P&amp;lt;has&amp;gt;[\w\S]+)\s(?P&amp;lt;action&amp;gt;[\w\S]+)\s(?P&amp;lt;vmName&amp;gt;[\w\S]+)\s(?P&amp;lt;id&amp;gt;[\w\S]+)\s(?P&amp;lt;actionDetail&amp;gt;[\w\S]+)&quot;)
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set[&quot;libname&quot;] = r.group(&quot;libname&quot;)
+            logging.debug(&quot;Get libname=%s, OK!&quot; % result_set[&quot;libname&quot;])
+
+            result_set[&quot;loglevel&quot;] = r.group(&quot;loglevel&quot;)
+            logging.debug(&quot;Get loglevel, OK!&quot;)
+
+            lreport = r.group(&quot;actionDetail&quot;).split(&quot;=&quot;)
+            result_set[&quot;actionDetail&quot;] = lreport[1][:-1]  # strip .
+            logging.debug(&quot;Get actionDetail=%s, OK!&quot; % result_set[&quot;actionDetail&quot;])
+
+            result_set[&quot;date&quot;] = r.group(&quot;date&quot;)[1:]  # strip first char [
+            logging.debug(&quot;Get date=%s, OK!&quot; % result_set[&quot;date&quot;])
+
+            result_set[&quot;time&quot;] = r.group(&quot;time&quot;)
+            logging.debug(&quot;Get time=%s, OK!&quot; % result_set[&quot;time&quot;])
+
+            result_set[&quot;action&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get action=%s, OK!&quot; % result_set[&quot;action&quot;])
+
+            lvmName = r.group(&quot;vmName&quot;).split(&quot;=&quot;)
+            result_set[&quot;vmName&quot;] = lvmName[1]
+            logging.debug(&quot;Get vmName=%s, OK!&quot; % result_set[&quot;vmName&quot;])
+
+            lID = r.group(&quot;id&quot;).split(&quot;=&quot;)
+            result_set[&quot;id&quot;] = lID[1]
+            logging.debug(&quot;Get id=%s, OK!&quot; % result_set[&quot;id&quot;])
+
+        except IndexError:
+            logging.error(&quot;Unable parser information in libxl, some regex group missing&quot;)
+
+    # CRASHED
+    regex = re.compile(&quot;(?P&amp;lt;date&amp;gt;[\w\S]+)\s(?P&amp;lt;time&amp;gt;[\w\S]+)\s(?P&amp;lt;timeid&amp;gt;[\w\S]+)\s(?P&amp;lt;loglevel&amp;gt;[\w\S]+)\s(?P&amp;lt;libname&amp;gt;[\w\S]+)\s(?P&amp;lt;domain&amp;gt;[\w\S]+)\s(?P&amp;lt;has&amp;gt;[\w\S]+)\s(?P&amp;lt;action&amp;gt;[\w\S]+)\s(?P&amp;lt;vmName&amp;gt;[\w\S]+)\s(?P&amp;lt;id&amp;gt;[\w\S]+)&quot;)
+    r = regex.search(line)
+    result_set = {}
+    if r:
+        try:
+            result_set[&quot;libname&quot;] = r.group(&quot;libname&quot;)
+            logging.debug(&quot;Get libname=%s, OK!&quot; % result_set[&quot;libname&quot;])
+
+            result_set[&quot;loglevel&quot;] = r.group(&quot;loglevel&quot;)
+            logging.debug(&quot;Get loglevel, OK!&quot;)
+
+            result_set[&quot;date&quot;] = r.group(&quot;date&quot;)[1:]  # strip first char [
+            logging.debug(&quot;Get date=%s, OK!&quot; % result_set[&quot;date&quot;])
+
+            result_set[&quot;time&quot;] = r.group(&quot;time&quot;)
+            logging.debug(&quot;Get time=%s, OK!&quot; % result_set[&quot;time&quot;])
+
+            result_set[&quot;action&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get action=%s, OK!&quot; % result_set[&quot;action&quot;])
+
+            result_set[&quot;actionDetail&quot;] = r.group(&quot;action&quot;)[:-1]  # strip .
+            logging.debug(&quot;Get actionDetail=%s, OK!&quot; % result_set[&quot;actionDetail&quot;])
+
+            lvmName = r.group(&quot;vmName&quot;).split(&quot;=&quot;)
+            result_set[&quot;vmName&quot;] = lvmName[1]
+            logging.debug(&quot;Get vmName=%s, OK!&quot; % result_set[&quot;vmName&quot;])
+
+            lID = r.group(&quot;id&quot;).split(&quot;=&quot;)
+            result_set[&quot;id&quot;] = lID[1]
+            logging.debug(&quot;Get id=%s, OK!&quot; % result_set[&quot;id&quot;])
+
+        except IndexError:
+            logging.error(&quot;Unable parser information in libxl, some regex group missing&quot;)
+
+    else:
+        logging.debug(&quot;Not value found on regex&quot;)
+
+    return result_set&lt;/pre&gt;
+
+&lt;pre class=&quot;lang:python mark:5 decode:true &quot; title=&quot;pxend42.py - Processor&quot;&gt;import logging
+from audit.plugins.outputs import output_libvirt_events
+
+
+def process_action_shutdown(result):
+    &quot;&quot;&quot;
+
+    &quot;&quot;&quot;
+    # TODO: Fix the if hierarchy and prop for action - Crashed and Shutdown repeated
+    #if not result.viewkeys() &amp;amp; {'libname', 'actionDetail', 'action', 'vmName'}:
+    if all(k in result for k in (&quot;libname&quot;, 'actionDetail', &quot;action&quot;, &quot;vmName&quot;)):
+        if result['libname'] == &quot;(XendDomainInfo:2079)&quot;:
+
+            if result['action'] == &quot;shutdown&quot;:
+                logging.debug(&quot;Shutdown event to vmName=%s and detail=%s &quot; % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+            elif result['action'] == &quot;crashed&quot;:
+                logging.debug(&quot;Shutdown event to vmName=%s and detail=%s &quot; % (result['vmName'], result['actionDetail']))
+                output_libvirt_events.broadcast_shutdown(result['vmName'], result['actionDetail'])
+
+        else:
+            logging.error(&quot;Detected action not implemented %s&quot; % result['action'])
+
+    else:
+        logging.error(&quot;Detected shutdown in processor but parse can't get details&quot;)&lt;/pre&gt;
+
+&lt;pre class=&quot;lang:default mark:7 decode:true &quot; title=&quot;output_libvirt_events.py - Outputs&quot;&gt;import logging
+from audit import VMProp
+# import deleted from code
+# import deleted from code
+
+def broadcast_shutdown(vmName, actionDetail ):
+    &quot;&quot;&quot;
+    Set the last detail information on global event_libvirt
+        :event_libvirt = { vmName : lastStated }
+
+    In Python documentation Dict is atomic. If you don't believe that try QUEUE.
+    &quot;&quot;&quot;
+    tmp = {}
+    if actionDetail == VMProp.vmState_SHUTTING_DOWN_DETAIL.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_CRASHED.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_crashed(vmName)
+
+    elif actionDetail == VMProp.vmState_POWEROFF_REBOOT.lower():
+        logging.debug(&quot;output called with action %s&quot; + Utils.get_callee_name())
+        API.set_vm_shutdown(vmName, VMProp.vmState_POWEROFF_REBOOT)
+
+    else:
+        tmp[vmName] = None
+        logging.error(&quot;Trying broadcast a new shutdown details but don't recognized actionDetail=%s &quot; % actionDetail)&lt;/pre&gt;
+
+&lt;p&gt;References e resources:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/&quot; target=&quot;_blank&quot;&gt;http://tech.yipit.com/2012/08/03/parsible-straightforward-log-parsing/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/Yipit/parsible&quot;&gt;http://github.com/Yipit/parsible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulorcf/parsible&quot; title=&quot;Parser e Processor para LibXL&quot;&gt;https://github.com/paulorcf/parsible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/parsible_conceptual_diagram_jude_v1.tar.gz&quot;&gt;parsible_conceptual_diagram_jude_v1.tar&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FISL15 &#8211; DIYbio hackeando o software da vida</title>
+   <link href="https://paulorcf.github.io/2014/04/fisl15-diybio-hackeando-o-software-da-vida/"/>
+   <updated>2014-04-03T13:23:38-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/fisl15-diybio-hackeando-o-software-da-vida</id>
+   <content type="html">&lt;p&gt;Confirmada para dia 10/05/2014, 16:00hrs no salão 41F (250 lugares).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png&quot;&gt;&lt;img src=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png&quot; alt=&quot;palestraNaGrade_V1&quot; width=&quot;584&quot; height=&quot;324&quot; class=&quot;aligncenter size-large wp-image-70&quot; srcset=&quot;http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-1024x569.png 1024w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-300x166.png 300w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1-500x278.png 500w, http://www.paulorcf.com/wp-content/uploads/2014/04/palestraNaGrade_V1.png 1165w&quot; sizes=&quot;(max-width: 584px) 100vw, 584px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Quer hackear seu DNA ou sua própria vida ?&lt;/p&gt;
+
+&lt;p&gt;DIYbio é uma rede de indivíduos globais que querem hackear a biologia aplicando práticas de “Faça você mesmo”.&lt;/p&gt;
+
+&lt;p&gt;Objetivo da palestra é demonstrar as principais as iniciativas e ideias para modelagem de sistemas biológicos via computação. Ensinaremos como trabalhar com dados do seu próprio DNA.&lt;/p&gt;
+
+&lt;p&gt;Demonstração de projetos como Wholecell da Universidade Stanford.&lt;/p&gt;
+
+&lt;p&gt;Neste momento, em algum lugar dos Estados Unidos, da Inglaterra ou até da Índia, algum biólogo sintético amador está realizando um experimento na sua cozinha ou garagem. Nos últimos dois anos, entusiastas da biologia molecular têm se juntado para montar organizações de biologia sintética amadora, como o DIYbio (do-it-yourself biology), em que os membros se reúnem em pubs e barbecues para discutir os últimos experimentos realizados nas suas próprias garagens. Há quase seis meses tenho participado das discussões desse grupo, que apresentam conteúdo refinado e objetivo sobre o desenvolvimento de microscópios de 10 dólares, espectrofotômetros, centrífugas de furadeiras ou liquidificadores, construções de diferentes kits com E. coli modificada, chegando até a sequenciadores de DNA caseiros.&lt;/p&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;http://synbiobrasil.org/2011/02/15/do-it-yourself-biologists-dyibio-e-a-ciencia-cidada/&quot; target=&quot;_blank&quot;&gt;http://synbiobrasil.org/2011/02/15/do-it-yourself-biologists-dyibio-e-a-ciencia-cidada/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tópicos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DIYbio foi fundado em 2008 no EUA com missão de criar uma comunidade de biologos com intuito de “Faça você mesmo”. A principal missão é acreditar que biotecnologia e mostrar para o grande público o grande potencial de benefícios (http://diybio.org/).&lt;/p&gt;
+
+&lt;p&gt;Comentários sobre o livro BioPunk: DIY Scientists hack the software of life.&lt;/p&gt;
+
+&lt;p&gt;Opensource para processamento de DNA.&lt;/p&gt;
+
+&lt;p&gt;Simulando uma célula com projeto Wholecell.&lt;/p&gt;
+
+&lt;p&gt;Entender uma cultura de bacterias e como simula-la no computador.&lt;/p&gt;
+
+&lt;p&gt;Processamento do GENOMA por U$ 1.000,00.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Install virt-v2v on Debian from source</title>
+   <link href="https://paulorcf.github.io/2014/04/install-virt-v2v-debian/"/>
+   <updated>2014-04-02T11:22:17-03:00</updated>
+   <id>https://paulorcf.github.io/2014/04/install-virt-v2v-debian</id>
+   <content type="html">&lt;p&gt;Howto install virt-v2v from source code on Debian or Ubuntu.&lt;/p&gt;
+
+&lt;pre class=&quot;theme:inlellij-idea lang:sh decode:true &quot;&gt;git clone https://git.fedorahosted.org/git/virt-v2v.git
+
+sudo apt-get install dh-autoreconf
+
+sudo apt-get install libguestfs-tools
+
+sudo apt-get install libxml-dom-perl libxml-xpath-perl libxml-dom-xpath-perl \ 
+libterm-progressbar-perl libdatetime-perl libnet-server-perl \ 
+libnet-https-any-perl libnet-https-nb-perl libnet-httpserver-perl \
+libcrypt-ssleay-perl
+
+wget http://launchpadlibrarian.net/85191944/libdigest-sha1-perl_2.13-2build2_amd64.deb
+
+sudo dpkg -i libdigest-sha1-perl_2.13-2build2_amd64.deb
+
+./run v2v/virt-v2v.pl&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Marco Civil da Internet &#8211; Saiam da Dialética</title>
+   <link href="https://paulorcf.github.io/2014/03/marco-civil-da-internet-saiam-da-dialetica/"/>
+   <updated>2014-03-14T10:27:27-03:00</updated>
+   <id>https://paulorcf.github.io/2014/03/marco-civil-da-internet-saiam-da-dialetica</id>
+   <content type="html">&lt;p&gt;Dialética PT vs. PSDB saiam dessa, por favor leiam a lei.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=912989&amp;amp;filename=PL+2126/2011&quot;&gt;http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=912989&amp;amp;filename=PL+2126/2011&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Único ponto preocupante que achei é:&lt;/p&gt;
+
+&lt;p&gt;§ 4 O provedor responsável pela guarda dos registros deverá manter sigilo em&lt;/p&gt;
+
+&lt;p&gt;relação ao requerimento previsto no § 2o, que perderá sua eficácia caso o pedido de autorização&lt;/p&gt;
+
+&lt;p&gt;judicial seja indeferido ou não tenha sido impetrado no prazo previsto no § 3o.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Por quê manter o sigilo o requerimento ?&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fundação Bradesco &#8211; Curso de Android</title>
+   <link href="https://paulorcf.github.io/2013/12/fb-android-2013/"/>
+   <updated>2013-12-16T11:55:10-02:00</updated>
+   <id>https://paulorcf.github.io/2013/12/fb-android-2013</id>
+   <content type="html">&lt;p&gt;Caros alunos da Info B,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1x9sbDFqQpO5k7DnRWjk3bYWn0fNZWKiLtNajpZeMjgM/viewform&quot; target=&quot;_blank&quot;&gt;Formulário para envio dos exercícios.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.oracle.com/javase/tutorial/&quot;&gt;Java Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2013/12/aula2_fb_android.zip&quot;&gt;Código-fonte Aula 2 – Fundação Bradesco&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fundação Bradesco &#8211; Curso de Fundamentos de Dispositivos Móveis</title>
+   <link href="https://paulorcf.github.io/2013/12/fb-fdm/"/>
+   <updated>2013-12-11T10:55:16-02:00</updated>
+   <id>https://paulorcf.github.io/2013/12/fb-fdm</id>
+   <content type="html">&lt;p&gt;Caros alunos do técnico de informática – Turma B:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/rcryxezwcww2p71/Fundamentos%20de%20Aplica%C3%A7%C3%B5es%20M%C3%B3veis.zip&quot;&gt;Download do material da Prof. Ivana&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1LbQQyAyv2D3sBof2QPAEJRB0lGQlrQT5FvUaMskvWMo/viewform&quot;&gt;&lt;span style=&quot;color: #333333;&quot;&gt;Formulário para entrega de exercícios&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fiap.com.br/fiapx/cursos/curso-de-aplicativos-para-android-com-app-inventor/&quot;&gt;Curso de AppInventor – FIAP&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/2013/12/fb-fdm/appinventor/&quot; rel=&quot;attachment wp-att-42&quot;&gt;Mini manual AppInventor&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Preços de Cloud Providers &#8211; Brasil</title>
+   <link href="https://paulorcf.github.io/2013/11/precos-de-cloud-providers-brasil/"/>
+   <updated>2013-11-18T09:51:40-02:00</updated>
+   <id>https://paulorcf.github.io/2013/11/precos-de-cloud-providers-brasil</id>
+   <content type="html">&lt;p&gt;Estudo feito em conjunto do Pedro Augusto sobre os preços macros de Cloud providers Brasileiros.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2013/11/Levantamento_cloud_tabelaPreco_Brasil_v4.pdf&quot;&gt;Levantamento_cloud_tabelaPreco_Brasil_v4.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulorcf.com/wp-content/uploads/2013/11/Levantamento_cloud_tabelaPreco_Brasil_v4.xlsx&quot;&gt;Levantamento_cloud_tabelaPreco_Brasil_v4.xls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Levantamento_cloud_tabelaPreco_Brasil_v4.ods&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/a&amp;gt;Providers listados:&lt;/p&gt;
+
+&lt;p&gt;Mandic.&lt;/p&gt;
+
+&lt;p&gt;UOLHost.&lt;/p&gt;
+
+&lt;p&gt;NetRevenda.&lt;/p&gt;
+
+&lt;p&gt;wixhost.&lt;/p&gt;
+
+&lt;p&gt;brasilhosp.&lt;/p&gt;
+
+&lt;p&gt;dadobrasil.&lt;/p&gt;
+
+&lt;p&gt;Brasilwork.&lt;/p&gt;
+
+&lt;p&gt;Locaweb.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vagrant &#8211; Exemplo simples</title>
+   <link href="https://paulorcf.github.io/2013/11/vagrant-basic-example/"/>
+   <updated>2013-11-16T20:48:42-02:00</updated>
+   <id>https://paulorcf.github.io/2013/11/vagrant-basic-example</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.vagrantup.com/&quot; target=&quot;_blank&quot;&gt;Vagrant&lt;/a&gt; é um wapper para VirtualBox e agora Vmware que permite provisionar máquinas virtuais à partir de configurações programáticas.&lt;/p&gt;
+
+&lt;p&gt;O exemplo abaixo foi criado para rodar Httrack e um aplicativo em Java.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulorcf/vagrant-basic-example&quot;&gt;https://github.com/paulorcf/vagrant-basic-example&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Debian Squeeze 64 + Chef + JDK Oracle + Apache + Bash Init script&lt;/p&gt;
+
+&lt;p&gt;No repositório o arquivo &lt;a href=&quot;https://github.com/paulorcf/vagrant-basic-example/blob/master/vm_build.sh&quot;&gt;vm_build.sh&lt;/a&gt; serve como um script de inicialização do provisionamento da máquina. Na pasta cookbooks a estrutura para &lt;a href=&quot;http://www.opscode.com/chef/&quot; target=&quot;_blank&quot;&gt;Chef&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Falando de Vagrant tudo começa pelo arquivo **Vagrantfile&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;noscript&gt;
+  &lt;pre&gt;&lt;code class=&quot;language-ruby ruby&quot;&gt;# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# Edit by paulo@memorelab.com
+# 10/03/2013 - Configure VM to run Httrack
+
+Vagrant::Config.run do |config|
+  # All Vagrant configuration is done here. The most common configuration
+  # options are documented and commented below. For a complete reference,
+  # please see the online documentation at vagrantup.com.
+
+  # Every Vagrant virtual environment requires a box to build off of.
+  config.vm.box = &quot;debsqueeze64.box&quot;
+
+  # The url from where the 'config.vm.box' box will be fetched if it
+  # doesn't already exist on the user's system.
+  config.vm.box_url = &quot;http://www.memorelab.com/vagrant/debsqueeze64.box&quot;
+
+  # Boot with a GUI so you can see the screen. (Default is headless)
+  # config.vm.boot_mode = :gui
+
+  # Assign this VM to a host-only network IP, allowing you to access it
+  # via the IP. Host-only networks can talk to the host machine as well as
+  # any other machines on the same network, but cannot be accessed (through this
+  # network interface) by any external networks.
+  # config.vm.network :hostonly, &quot;10.10.15.15&quot;
+
+  # Assign this VM to a bridged network, allowing you to connect directly to a
+  # network using the host's network device. This makes the VM appear as another
+  # physical device on your network.
+  # config.vm.network :bridged
+
+  # Forward a port from the guest to the host, which allows for outside
+  # computers to access the VM, whereas host only networking does not.
+  config.vm.forward_port 80, 9090
+
+  # Share an additional folder to the guest VM. The first argument is
+  # an identifier, the second is the path on the guest to mount the
+  # folder, and the third is the path on the host to the actual folder.
+  config.vm.share_folder &quot;pandora&quot;, &quot;/opt/vpidata/monitorInternet/&quot;, &quot;./monitorInternet&quot;, create: true
+  #config.vm.share_folder &quot;etc&quot;, &quot;/etc&quot;, &quot;./etc&quot;, create: true
+  	
+  # Enable provisioning with Puppet stand alone.  Puppet manifests
+  # are contained in a directory path relative to this Vagrantfile.
+  # You will need to create the manifests directory and a manifest in
+  # the file precise64.pp in the manifests_path directory.
+  #
+  # An example Puppet manifest to provision the message of the day:
+  #
+  # # group { &quot;puppet&quot;:
+  # #   ensure =&amp;gt; &quot;present&quot;,
+  # # }
+  # #
+  # # File { owner =&amp;gt; 0, group =&amp;gt; 0, mode =&amp;gt; 0644 }
+  # #
+  # # file { '/etc/motd':
+  # #   content =&amp;gt; &quot;Welcome to your Vagrant-built virtual machine!
+  # #               Managed by Puppet.\n&quot;
+  # # }
+  #
+  # config.vm.provision :puppet do |puppet|
+  #   puppet.manifests_path = &quot;manifests&quot;
+  #   puppet.manifest_file  = &quot;precise64.pp&quot;
+  # end
+
+  # Enable provisioning with chef solo, specifying a cookbooks path, roles
+  # path, and data_bags path (all relative to this Vagrantfile), and adding 
+  # some recipes and/or roles.
+  #
+  # config.vm.provision :chef_solo do |chef|
+  #   chef.cookbooks_path = &quot;../my-recipes/cookbooks&quot;
+  #   chef.roles_path = &quot;../my-recipes/roles&quot;
+  #   chef.data_bags_path = &quot;../my-recipes/data_bags&quot;
+  #   chef.add_recipe &quot;mysql&quot;
+  #   chef.add_role &quot;web&quot;
+  #
+  #   # You may also specify custom JSON attributes:
+  #   chef.json = { :mysql_password =&amp;gt; &quot;foo&quot; }
+  # end
+
+	
+	# Paulo Castro :-&amp;gt; configuration for Marvin9 paulo@memorelab.com - 24/04/2013
+	#Shell script inline to update the system and install chef!
+	config.vm.provision :shell, :path =&amp;gt; &quot;vm_build.sh&quot;
+	
+    config.vm.provision :chef_solo do |chef|
+		chef.cookbooks_path = &quot;cookbooks&quot;
+		chef.add_recipe(&quot;java&quot;)
+		chef.add_recipe(&quot;apache2&quot;)
+		
+		chef.json = {
+			&quot;java&quot; =&amp;gt; {
+				&quot;install_flavor&quot; =&amp;gt; &quot;oracle&quot;,
+				&quot;oracle&quot; =&amp;gt; {
+					&quot;accept_oracle_download_terms&quot; =&amp;gt; &quot;true&quot;
+				}
+			},
+			&quot;apache2&quot; =&amp;gt; {
+				&quot;contact&quot; =&amp;gt; &quot;paulo@memorelab.com&quot;				
+			}		
+		}
+		
+		# this is default path to cookbooks path on host.
+		chef.provisioning_path = &quot;/tmp/vagrant-chef&quot;
+	end
+
+  # Enable provisioning with chef server, specifying the chef server URL,
+  # and the path to the validation key (relative to this Vagrantfile).
+  #
+  # The Opscode Platform uses HTTPS. Substitute your organization for
+  # ORGNAME in the URL and validation key.
+  #
+  # If you have your own Chef Server, use the appropriate URL, which may be
+  # HTTP instead of HTTPS depending on your configuration. Also change the
+  # validation key to validation.pem.
+  #
+  # config.vm.provision :chef_client do |chef|
+  #   chef.chef_server_url = &quot;https://api.opscode.com/organizations/ORGNAME&quot;
+  #   chef.validation_key_path = &quot;ORGNAME-validator.pem&quot;
+  # end
+  #
+  # If you're using the Opscode platform, your validator client is
+  # ORGNAME-validator, replacing ORGNAME with your organization name.
+  #
+  # IF you have your own Chef Server, the default validation client name is
+  # chef-validator, unless you changed the configuration.
+  #
+  #   chef.validation_client_name = &quot;ORGNAME-validator&quot;
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;/noscript&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Como fazemos semântica hoje</title>
+   <link href="https://paulorcf.github.io/2013/11/como-fazemos-semantica-hoje/"/>
+   <updated>2013-11-16T19:58:58-02:00</updated>
+   <id>https://paulorcf.github.io/2013/11/como-fazemos-semantica-hoje</id>
+   <content type="html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Apresentação de 2010 feita no TDC.&amp;lt;br /&amp;gt;
+Estava na VPIdata desenvolvendo um produto de análise textual.&lt;/code&gt;&lt;/p&gt;
+
+&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;
+  &lt;strong&gt; &lt;a title=&quot;Como fazemos semântica hoje ? - TDC 2010&quot; href=&quot;https://www.slideshare.net/vpidata/como-fazemos-semntica-hoje-tdc-2010&quot; target=&quot;_blank&quot;&gt;Como fazemos semântica hoje ? &amp;#8211; TDC 2010&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/vpidata&quot; target=&quot;_blank&quot;&gt;VPIData Inc.&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Vídeos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;
+  &lt;!--more--&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      1. Como  fazemos  semân,ca  hoje. Paulo Castro paulo.castro@vpidata.com Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      2. Semântica ? Santo Graal Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      3. Semântica ? Santo Graal Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      4. Web semântica ? • é  uma  extensão  da  Web  atual  que  permi5rá  aos   computadores  e  humanos  trabalharem  em  cooperação.   Interliga  signiﬁcados  de  palavras  e  tem  como  ﬁnalidade   conseguir  atribuir  um  signiﬁcado  (sen5do)  aos  conteúdos   publicados  na  Internet  de  modo  que  seja  percepCvel  tanto   pelo  humano  como  pelo  computador. http://pt.wikipedia.org/wiki/Web_semântica Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      5. Ontologia ? • 1.  Fil.  Parte  da  ﬁlosoﬁa  que  estuda  a  natureza  dos  seres,  o  ser   enquanto  ser. • 2.  Fil.  Doutrina  sobre  o  ser. • 3.  Inf.  Campo  da  informá5ca  que  trata  de  conceitualizar  de   forma  explícita  e  formal  (portanto  processável  por  máquina  e   compar5lhável)  conceitos  e  restrições  relacionados  a  certo   domínio  de  interesses iDicionário Aulete Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      6. Taxonomia ? • (do  Grego  verbo  τασσεῖν  ou  tassein  =  &amp;#8220;para  classiﬁcar&amp;#8221;  e   νόμος  ou  nomos  =  lei,  ciência,  administrar). • 1  .Ciência  da  classiﬁcação. • 2.  Biol.  Ramo  da  biologia  que  cuida  de  descrever,  iden5ﬁcar  e   classiﬁcar  os  seres  vivos.  [Cf.  sistemá5ca.] • 3.  Bot.  Parte  da  botânica  que  trata  das  classiﬁcações  dos   elementos  vegetais. • 4.  Gram.  Ling.  Parte  da  gramá5ca  que  trata  da  classiﬁcação   das  palavras. • [F.:  tax(i/o)1  -­‐  +  -­‐nomia.  Sin.  ger.:  taxeonomia,  taxinomia,   http://pt.wikipedia.org/wiki/Taxonomia iDicionário Aulete Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      7. Simple Math ? Top O= T | NT T | NT T | NT O &amp;#8211; Ontologia T &amp;#8211; Relação de Taxonomia (nome ao objeto). NT &amp;#8211; Não Relação de Taxonomia (objeto). Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      8. Albert Einsten http://uniat5401.ag5.mpi-sb.mpg.de:8180/webyago/html/graphViewer.html?entity=Albert_Einstein&amp;amp;n=5 Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      9. Chato ? Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      10. Chato ? Voltando para o passado mas precisamente &amp;#8230; Filmes da Sessão da Tarde. Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      11. Lembra do Johnny 5 ? Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      12. Lembra do Johnny 5 ? Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      13. Johnny 5 ? Vídeo http://www.youtube.com/watch?v=FAyjdeEu7FA Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      14. Sopa de letrinhas http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      15. Sopa de letrinhas http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      16. Sopa de letrinhas “maneira de identificar unicamente recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      17. Sopa de letrinhas “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      18. Sopa de letrinhas “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      19. Sopa de letrinhas “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      20. Sopa de letrinhas “definir um grande número de relações&amp;#8230; definir classes como união ou intesecção de outras&amp;#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      21. Sopa de letrinhas “regras para o tratamento da informação.” “definir um grande número de relações&amp;#8230; definir classes como união ou intesecção de outras&amp;#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      22. Sopa de letrinhas “verificar a consistência dos dados acessíves na Web Semântica.” “regras para o tratamento da informação.” “definir um grande número de relações&amp;#8230; definir classes como união ou intesecção de outras&amp;#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      23. Sopa de letrinhas “verificar a consistência dos dados acessíves na Web Semântica.” Confiança “regras para o tratamento da informação.” “definir um grande número de relações&amp;#8230; definir classes como união ou intesecção de outras&amp;#8230; linguagem adotada para preencher essa camada é a OWL” “definir a estrutura dos metadados, no caso definido pela W3C são triplas (sujeito, predicado, objeto).” “padrões estabelecem a regras iniciais para as linguagens a serem usadas na Web Semântica&amp;#8230; dois agentes serão capazes de trocar dados sem estrutura ou semântica.” “o conjunto de caracteres aceitos para “maneira de identificar unicamente criar as camadas “acima.” recursos na Web.” http://www.linux.ime.usp.br/~cef/mac499-04/monografias/ghsilva/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      24. Sopa de letrinhas v2 http://www.semanticfocus.com/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      25. RDF Resource Description Framework http://www.w3.org/RDF/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      26. RDF Resource Description Framework http://www.w3.org/RDF/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      27. RDF Resource Description Framework http://developer.yahoo.com/searchmonkey/smguide/index.html Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      28. Aplicações atuais http://www.badassoftheweek.com/doc.html Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      29. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      30. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      31. Filtragem The RDF Protune Policy Editor: Enabling Users to Protect Data in the Semantic Web Fabian Abel, Juri Luca De Coi, Nicola Henze, Arne Wolf Koesling, Daniel Krause, and Daniel Olmedilla Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      32. Search http://www.opensearch.org Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      33. Motif http://labs.yahoo.com Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      34. Motif http://labs.yahoo.com Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      35. Medicina http://www.mavensemantic.com/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      36. Parque de diversões http://www.opencalais.com/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      37. Do it yourself! http://www.filmforum.org/films/dassin.html Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      38. Dimensões&amp;#8230; The State of the Art in Ontology Learning: A Framework for Comparison Mehrnoush Shamsfard and Ahmad Abdollahzadeh Barforoush Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      39. It’s working Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      40. It’s working 1 Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      41. It’s working 2 1 Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      42. Boa cabelo! 2 1 Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      43. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      44. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      45. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monitoramento de mídias socias. Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      46. WTF ? Engine que tentava fazer relacionamento entre fatos e “stock market”. #FAIL Monitoramento de mídias socias. #WIN Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      47. Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      48. Sentimento Positivo Computação Globalcode Cursos #TDC2010 &amp;#8211; Evento TDC http://www.thedevelopersconference.com.br/ Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      49. PERFIL Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      50. Cursos Linguagem Programação Globalcode Computação PERFIL Programador Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      51. HOJE! 250 domínios 3402 palavras Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      52. HOJE! Fontes 250 domínios 3402 palavras Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      53. HOJE! Fontes 250 3402 Tecnologias domínios palavras Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      54. HOJE! Fontes 250 3402 Tecnologias domínios palavras Lançamento 20/Nov/2010 Google Images Monday, August 23, 2010
+    &lt;/li&gt;
+    &lt;li&gt;
+      55. Dúvidas ? @paulorcf paulo.castro@vpidata.com http://www.vpidata.com Monday, August 23, 2010
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>
